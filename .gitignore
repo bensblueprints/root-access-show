@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.glb
+*.stl
+*.exr
+.DS_Store
