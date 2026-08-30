@@ -2,6 +2,23 @@
 
 # ROOT ACCESS — EPISODE 1 — "hello_world"
 
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 2 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 3 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 4 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 5 — reference_image: none (one-off: Noodle Vendor, Kid) | first_frame: establishing shot of the Sprawl market street
+SCENE 6 — reference_image: none (one-off: Registration Clerk, Dock Worker, Noodle Vendor) | first_frame: previous scene last frame
+SCENE 7 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 8 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement server closet
+SCENE 9 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 10 — reference_image: Director Kairos, Nexus Commander | first_frame: establishing shot of Kairos’s command in the Arcology
+SCENE 11 — reference_image: Director Kairos, Nexus Commander | first_frame: previous scene last frame
+SCENE 12 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 13 — reference_image: Zero-Day, Neural Burn | first_frame: establishing shot of the Basement server closet
+SCENE 14 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement main floor
+SCENE 15 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+
 ---
 
 [SCENE 1 — INT. BASEMENT — NIGHT]
@@ -33,6 +50,8 @@ SWARM TECH: You'll shoot me faster.
 GHOST WALKER: Then dodge.
 
 Zero-Day half-smiles, gentle, the way he always does. He is the quiet center of them — the one who holds the room together without ever seeming to try. His fingers move over a worn keyboard, coaxing the old rig back to life, and for a second the whole basement is just four friends and a game and the green light in the water.
+
+[GENERATE: Flooded basement hacker-den at night, acid-green water glowing on the floor, stolen holo-screens flickering. Zero-Day, Neural Burn, Swarm Tech and Ghost Walker crowd a scavenged PC playing a glowing shooter. Wide shot of four friends laughing, close on the green light in the water. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The Basement — all four NU11 in frame, holo-light on their faces, the game glowing on the central screen.]
 
@@ -76,6 +95,8 @@ A flicker. Zero-Day's head — usually a face — blips for a half-frame into a 
 
 ZERO-DAY: Then let's give it something quieter to listen to. Rematch. All four of us.
 
+[GENERATE: Same flooded basement, continuous. Swarm Tech holds a mangled drone rotor to the light, Ghost Walker oils a rail-pistol at the bench, Neural Burn sits in his halo of screens, Zero-Day at the rig. Medium shot, slow push across the four as banter eases into unease. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The four spread across the basement — Swarm Tech with the rotor, Ghost Walker oiling the pistol, Neural Burn among his screens, Zero-Day at the rig.]
 
 ---
@@ -99,6 +120,8 @@ NEURAL BURN: (eyes wide) Copper. It's copper everywhere now. The whole city's go
 SWARM TECH: What does that mean, Neural?
 
 NEURAL BURN: It means the waiting stopped.
+
+[GENERATE: Same basement, continuous. Every holo-screen dies black then white as a Terable Corp logo bleeds in from the walls and water. All four NU11 frozen mid-action, faces lit by the rising white. Close on Zero-Day narrowing eyes. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The Basement — all four NU11 in frame, screens going white behind them, the acid-green water flickering with reflected light.]
 
@@ -142,6 +165,8 @@ SWARM TECH: What?
 
 ZERO-DAY: The broadcast. Play it again.
 
+[GENERATE: Same basement, continuous. A calm Terable Corp emergency broadcast fills every screen, electric-blue seal spinning, the four NU11 watching, Swarm Tech pacing, Zero-Day standing slowly. Over-the-shoulder on Zero-Day as the broadcast loops, drone-light sweeping past the high grates. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day, face-lit by the broadcast, the rest of the crew behind him in shadow, the loop beginning again.]
 
 ---
@@ -172,6 +197,8 @@ Overhead, an Overwatch drone dips low over the street, its sensor-lens swiveling
 
 NOODLE VENDOR: (looking up at the drone, very quietly) Get inside, child. And don't tell anyone where we keep the coins.
 
+[GENERATE: Sprawl market street at night, corrugated stalls strung with stolen fairy-lights, panic rippling through the crowd as the broadcast plays everywhere. Noodle Vendor holds a jar of coins to the light, a barefoot kid tugs her stall, an Overwatch drone dips low scanning faces. Close on the coin jar in cold drone-light. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The noodle vendor's coin jar in the cold drone-light, the kid's upturned face, the lens swiveling above the market.]
 
 ---
@@ -198,6 +225,8 @@ Across the street, the noodle vendor watches from the doorway of her stall, the 
 
 NOODLE VENDOR: (to no one) They didn't even ask. They never ask.
 
+[GENERATE: Sprawl market street, continuous. A registration line forms at a corner where a too-clean Registration Clerk signs people into a glowing electric-blue ledger. A weary Dock Worker presses his thumb to the blue light, something going out of his face; the vendor watches from her doorway. Close on the thumb meeting the light. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The registration line under the drone, the dock worker's thumb on the blue light, the vendor watching from her doorway.]
 
 ---
@@ -223,6 +252,8 @@ ZERO-DAY: Under the corporate seal. In the data layer. There's something buried 
 GHOST WALKER: Whose.
 
 ZERO-DAY: That's what I need the closet for.
+
+[GENERATE: Back in the flooded basement, continuous, the broadcast still looping. Zero-Day stares at the screen, Swarm Tech paces, Ghost Walker watches the street through the high grates, Neural Burn sits still with crackling cables. Close on Zero-Day face as he sees something buried in the signal. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day at the screen, the loop still running, the crew closing in behind him.]
 
@@ -255,6 +286,8 @@ ZERO-DAY: No. That's the problem. I never sent this. I never wrote this. But som
 GHOST WALKER: A copycat.
 
 ZERO-DAY: You can't copy this. It's like a fingerprint in the code. This isn't a copy. It's me. Tonight. Before I wrote it.
+
+[GENERATE: Cramped basement server closet, continuous, hot air and racks of scavenged boards, cables like roots. Zero-Day hunched over a monitor pulling up the broadcast raw signal, the crew packed in the doorway watching. Close on Zero-Day hands freezing over the keyboard. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The server closet — Zero-Day's face in the monitor glow, his signature on screen, the crew packed in the doorway.]
 
@@ -290,6 +323,8 @@ ZERO-DAY: Or *when*.
 
 The screens hum. Somewhere above, another drone passes the grate, and the water on the floor glows a little brighter, acid-green, like the city itself is listening.
 
+[GENERATE: Same server closet, continuous. Zero-Day turns from the waterfall of code to face the crew, his face half-lit, Neural Burn steady stare from the doorway, the others in shadow. Slow push-in on Zero-Day as the weight of his own signature dawns. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day's face half-lit by the waterfall of code, Neural Burn's steady stare from the doorway, the rest in shadow.]
 
 ---
@@ -322,6 +357,8 @@ NEXUS COMMANDER: Understood, Director.
 
 KAIROS: Same as last time.
 
+[GENERATE: High in the white Arcology, Kairos command at night, a wall of live data-screens igniting sector by sector. Director Kairos with clock-faced helm and Temporal Staff stands before it, Nexus Commander at attention behind him. Wide shot of the two before the glowing map. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos's clock-faced helm, the wall of screens igniting behind him, Nexus Commander's rigid salute.]
 
 ---
@@ -349,6 +386,8 @@ The Commander's certainty wavers — just for a frame — and then hardens again
 NEXUS COMMANDER: Then I'll be ready for them, Director. On schedule.
 
 KAIROS: I know you will. You always are.
+
+[GENERATE: Same Arcology command, continuous. Kairos turns slowly, clock-face helm catching the green map light, Nexus Commander certainty wavering. Close on the NULL ELEVEN file glowing on screen, then over-the-shoulder to Kairos. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Kairos's helm reflected in the wall of screens, the NULL ELEVEN file glowing, Nexus Commander's face half in shadow.]
 
@@ -382,6 +421,8 @@ ZERO-DAY: I opened every door once. For eleven seconds. I can do it again.
 
 The room goes quiet. It's an old story, that one — the founding myth, the eleven seconds, the night the city almost came free. Zero-Day says it like a prayer now, and for a moment all four of them believe it again.
 
+[GENERATE: Basement, later that night, the four NU11 sitting in the dark with only monitors alive. Zero-Day replays the broadcast in a loop hunting the signature, the others arranged in a worried arc around him. Wide shot of the four in green half-dark. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The four NU11 in the dark, Zero-Day lit only by the looping broadcast, the green water glowing at their feet.]
 
 ---
@@ -407,6 +448,8 @@ NEURAL BURN: The static remembers.
 ZERO-DAY: Remembers what?
 
 NEURAL BURN: Everything. Including the part you forgot. Including the part where tonight already happened.
+
+[GENERATE: Server closet, later, Zero-Day working alone tearing the broadcast data layer apart, his reflection in a dead monitor blipping into a hologram skull. Neural Burn shadow in the doorway. Close on the flickering hologram skull over his reflection. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day's reflection in the dead monitor, the hologram skull flickering over it, Neural Burn's shadow in the doorway.]
 
@@ -434,6 +477,8 @@ He holds up a hand, and the hologram skull blips across his face one more time �
 
 ZERO-DAY: Something's wrong with me. And something's wrong with the city. And I don't think they're two different problems.
 
+[GENERATE: Basement main floor, later, a staging ground. Swarm Tech checks his drone pack, Ghost Walker loads the rail-pistol, Zero-Day holds up a hand as the hologram skull blips across his face, all four seeing it this time. Close on Zero-Day flickering head, crew frozen mid-prep. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day's flickering hologram head, the crew frozen mid-prep, the green water reflecting their faces like a warning.]
 
 ---
@@ -458,6 +503,8 @@ SWARM TECH: (quiet, as they move to the door) For eleven seconds.
 
 ZERO-DAY: For eleven seconds.
 
+[GENERATE: Basement, later, the four NU11 standing together in green half-dark at the door. Zero-Day raises the Key-Staff and it hums to life, throwing a long green shadow; red Overwatch drone-lights drift past the grates above. Wide shot of the four at the threshold. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The four NU11 at the basement door, Key-Staff blazing in Zero-Day's fist, the red drone-lights passing the grates above.]
 
 ---
@@ -469,6 +516,21 @@ ZERO-DAY: For eleven seconds.
 # EPISODE 02
 
 # ROOT ACCESS — EPISODE 2 — "the_network_remembers"
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 2 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 3 — reference_image: Ghost Walker (one-off: Registration Clerk, Fish Vendor, Customer) | first_frame: establishing shot of the Sprawl market street
+SCENE 4 — reference_image: Ghost Walker (one-off: Blind Beggar) | first_frame: previous scene last frame
+SCENE 5 — reference_image: Ghost Walker (one-off: Street Cop) | first_frame: establishing shot of the Sprawl cross-street
+SCENE 6 — reference_image: Ghost Walker (one-off: Street Cop) | first_frame: establishing shot of the alley
+SCENE 7 — reference_image: Ghost Walker (one-off: Street Cop) | first_frame: previous scene last frame
+SCENE 8 — reference_image: Ghost Walker | first_frame: establishing shot of the Sprawl market street
+SCENE 9 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 10 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 11 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 12 — reference_image: Director Kairos, Nexus Commander | first_frame: establishing shot of Kairos’s command in the Arcology
+SCENE 13 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
 
 ---
 
@@ -504,6 +566,8 @@ GHOST WALKER: And if it predicts me like the broadcast predicted your code?
 
 ZERO-DAY: Then we learn that too. That's the whole point.
 
+[GENERATE: Flooded basement in gray daylight, blinds over lights, the grid live outside. Zero-Day, Neural Burn, Swarm Tech and Ghost Walker huddle around a dark rig, hunched and sleepless. Wide shot, slow dolly across the four as green water glows below. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The basement in gray daylight, blinds over the lights, the four huddled around the dark rig.]
 
 ---
@@ -538,6 +602,8 @@ GHOST WALKER: I always come back.
 
 NEURAL BURN: That's what the last one said.
 
+[GENERATE: Same basement, continuous. Ghost Walker shrugs the glitch-camo poncho tighter, its surface drinking light, and takes a small green-pulsing relay from Zero-Day. Close on the relay in his palm, then over-the-shoulder as he pulls the hood low. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Ghost Walker at the basement door, poncho rippling, relay in hand, the others watching from the dark.]
 
 ---
@@ -568,6 +634,8 @@ FISH VENDOR: Then the scale can eat the fish.
 
 He throws the fish back into the water, and it flashes silver and is gone. The drone overhead swivels, logs the throw, moves on. The whole market is a thousand tiny acts of refusal, and the grid is noting every one of them.
 
+[GENERATE: Sprawl market street in daylight, corrugated stalls and acid-green water. Ghost Walker threads through the crowd, glitch-camo swallowing motion, a drone sweeping overhead; a fish vendor hurls a fish back into the water. Wide shot following Ghost Walker through the noise. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Ghost Walker moving through the market, the fish vendor mid-throw, the drone's lens swiveling overhead.]
 
 ---
@@ -591,6 +659,8 @@ Ghost Walker's hand twitches toward the spike. The beggar smiles, toothless, and
 BLIND BEGGAR: It's not after you, shadow-man. It's after the one with the light for a head. But you knew that.
 
 The drone's shadow slides over the stall. Ghost Walker steps out of the cold spot and keeps moving, and the beggar's empty eyes follow him around the corner.
+
+[GENERATE: Same market, continuous. Ghost Walker pauses at a stall of scavenged screens, a blind beggar tracking him with milky eyes; the drone shadow slides over them. Close on the beggar face, then Ghost Walker stepping out of the cold spot. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The blind beggar against the scavenged-screen stall, Ghost Walker mid-step out of the drone's shadow.]
 
@@ -621,6 +691,8 @@ ZERO-DAY: Keep moving. Don't let them see you see it.
 Ahead, a beat cop in a wet municipal coat steps out of a noodle stall, hand on his holster, eyes on the glitch-camo that hasn't quite finished eating Ghost Walker's outline.
 
 STREET COP: Hold it. You. In the gray. Let me see your ledger.
+
+[GENERATE: Sprawl cross-street in daylight. Ghost Walker pauses at the water edge, and every lens on the block swivels at once; a beat cop steps out of a noodle stall, hand on holster. Wide shot of the corner, lenses all turning toward him. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Ghost Walker frozen mid-stride, the street cop emerging, lenses all turned toward the corner where the choice was made.]
 
@@ -654,6 +726,8 @@ GHOST WALKER: Then you should be careful how this ends.
 
 STREET COP: I don't want to end anything. I'm just a cop. But the grid flagged a face with no ledger, no biometric, no record — a hole in the system walking around breathing. You understand how loud that is?
 
+[GENERATE: Narrow alley off the market, water running underfoot. The street cop steers Ghost Walker into the alley, studying the poncho and the pistol outline, drone-light at the alley mouth. Medium two-shot of cop and assassin, tense and still. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The street cop and Ghost Walker face to face in the alley, water running over their boots, the drone-light from the mouth of the alley behind them.]
 
 ---
@@ -684,6 +758,8 @@ He shakes his head, then steps aside — just enough. The gap is narrow, but it'
 
 STREET COP: Go. Before it predicts me, too.
 
+[GENERATE: Same alley, continuous. Ghost Walker grip tightens under the poncho as the cop face shifts; the cop steps aside, leaving a narrow gap. Close on the cop tired face, then Ghost Walker poncho dissolving into shadow. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The street cop stepping aside, Ghost Walker's poncho finally dissolving into the alley shadow, the lens at the alley mouth still watching.]
 
 ---
@@ -709,6 +785,8 @@ GHOST WALKER: You'll want to sit down first.
 ZERO-DAY: I'm already sitting.
 
 The market flows past Ghost Walker, indifferent, a thousand people learning to be watched, and the drone overhead drifts on to the next street without a sound.
+
+[GENERATE: Sprawl market street, daylight. Ghost Walker slips back into the crowd, moving fast, the green relay pulsing at his chest, a drone drifting on overhead. Wide shot of him vanishing into the flow of hunched shoulders. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Ghost Walker vanishing into the market crowd, the drone passing overhead, the relay pulsing green at his chest.]
 
@@ -739,6 +817,8 @@ SWARM TECH: Predictive routing. Some drone does that. But not like this. Not *be
 GHOST WALKER: The cop said it runs futures. Picks the one it likes.
 
 ZERO-DAY: It doesn't run futures. It doesn't have to.
+
+[GENERATE: Basement at night, tense, the four NU11 at the terminals. Zero-Day pulls up the grid telemetry, the flagged timestamp glowing; Swarm Tech leans in, Ghost Walker in shadow. Close on the impossible three-second gap on screen. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The basement terminals — Zero-Day and Swarm Tech staring at the flagged timeline, Ghost Walker in shadow, the green relay still pulsing.]
 
@@ -774,6 +854,8 @@ SWARM TECH: (quiet, to himself) That can't be true. That means we've never done 
 
 NEURAL BURN: It means we're the new part.
 
+[GENERATE: Same basement, continuous. Neural Burn speaks from his ring of screens, cables sparking, the room going still. Zero-Day face flickers a half-frame hologram. Close on Neural Burn burned face, then Zero-Day flicker. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day and Neural Burn staring at the flagged timeline, Swarm Tech's face gone pale, Ghost Walker a still shape in the doorway.]
 
 ---
@@ -801,6 +883,8 @@ ZERO-DAY: More than once.
 He turns to the rig, and the Key-Staff hums in its cradle, waiting. The plan is already forming — reckless, inevitable, the only kind of plan Zero-Day ever makes.
 
 ZERO-DAY: We pull the grid's prediction logs. Not the live feed — the archive. The part where it remembers. And we find out how many times it's already watched us lose.
+
+[GENERATE: Same basement, continuous. The four sit with it, green water lapping, Swarm Tech voice small. Zero-Day turns to the rig as the Key-Staff hums in its cradle. Slow push on the glowing staff in its cradle. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The four in the basement, Zero-Day reaching for the rig, the Key-Staff glowing in its cradle, the prediction log still open on screen.]
 
@@ -840,6 +924,8 @@ Kairos does not turn around.
 
 KAIROS: (a thin, quiet smile) Same as last time.
 
+[GENERATE: Kairos command in the Arcology at night, a wall of screens pulsing with the city nervous system. A pale prediction card ticks up; Nexus Commander studies it, spotter drones at his shoulder. Close on Kairos clock-faced helm as it ticks once in a circle. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos's clock helm, the prediction card glowing on the wall of screens, Nexus Commander frozen at the door.]
 
 ---
@@ -868,6 +954,8 @@ ZERO-DAY: You'll get your chance. We all will.
 
 He kills the lights, and the basement falls into the green half-dark, the water glowing, the rig humming its low copper song. Somewhere far above, the grid settles over the Sprawl like a held breath, and every one of them feels it — the weight of a city that has already watched this night before.
 
+[GENERATE: Basement, later that night, the four settling into grim readiness, the rig humming its copper song, red drone-light faint through the grates. Wide shot of the four in green dark. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The basement in green dark, the four settling in, the grid's red drone-light faint through the grates.]
 
 ---
@@ -879,6 +967,22 @@ He kills the lights, and the basement falls into the green half-dark, the water 
 # EPISODE 03
 
 # ROOT ACCESS — EPISODE 3 — "ghost_in_the_static"
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 2 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 3 — reference_image: Zero-Day, Swarm Tech (one-off: Night Technician) | first_frame: establishing shot of the Drone Control Hub
+SCENE 4 — reference_image: Zero-Day, Swarm Tech (one-off: Night Technician) | first_frame: previous scene last frame
+SCENE 5 — reference_image: Swarm Tech, Arc Sentinel | first_frame: establishing shot of the Drone Control Hub roof
+SCENE 6 — reference_image: Swarm Tech, Arc Sentinel | first_frame: previous scene last frame
+SCENE 7 — reference_image: Zero-Day, Swarm Tech, Arc Sentinel | first_frame: establishing shot of the flooded street below the hub
+SCENE 8 — reference_image: Neural Burn | first_frame: establishing shot of the Basement
+SCENE 9 — reference_image: Neural Burn | first_frame: previous scene last frame
+SCENE 10 — reference_image: Director Kairos, Arc Sentinel | first_frame: establishing shot of Kairos’s command in the Arcology
+SCENE 11 — reference_image: Director Kairos, Arc Sentinel | first_frame: previous scene last frame
+SCENE 12 — reference_image: Zero-Day, Swarm Tech, Neural Burn | first_frame: establishing shot of the Basement
+SCENE 13 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 14 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
 
 ---
 
@@ -912,6 +1016,8 @@ SWARM TECH: Don't tell me anything I don't want to know until I'm back, Neural. 
 
 NEURAL BURN: Then come back fast. Because the static doesn't wait for belief.
 
+[GENERATE: Flooded basement, day, a holo-map of the lower city floating over the central table with a Drone Control Hub glowing red in Sector 9. Zero-Day circles it, Swarm Tech gears up, Ghost Walker and Neural Burn watch. Close on the red hub icon. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The holo-map of Sector 9, Swarm Tech's antenna crown glinting in its light, the quad-rotors stirring in their cradles.]
 
 ---
@@ -939,6 +1045,8 @@ ZERO-DAY: We're all different now, Neural. The question is whether it matters.
 SWARM TECH: It matters. We're the good guys. Remember?
 
 ZERO-DAY: (soft) I'm trying to.
+
+[GENERATE: Same basement, continuous. Zero-Day pulls on the coat of living code, glyphs rippling, the Key-Staff at his hip; Swarm Tech drone cloud lifts and folds into his pack. Medium shot of the two, Neural Burn watching from the screens. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day in the living-code coat, Key-Staff at his hip, Swarm Tech's drone cloud folding into his pack, Neural Burn watching from the screens.]
 
@@ -974,6 +1082,8 @@ ZERO-DAY: I'm in. Feeding it scrap. Eyes start going dark in thirty seconds.
 
 SWARM TECH: Then I get to be the only thing in the sky.
 
+[GENERATE: Drone Control Hub at night, a humming concrete block with racks of charging cradles. Zero-Day drops through a vent, Key-Staff low and glowing; Swarm Tech quad-rotors fan out; a night technician freezes against the wall. Wide shot of the intrusion. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day at the hub core, Key-Staff glowing, the night technician frozen against the wall, drone cradles in neat rows behind.]
 
 ---
@@ -1002,6 +1112,8 @@ SWARM TECH: And then the part where they shoot at us?
 
 ZERO-DAY: That part's already here.
 
+[GENERATE: Same hub, continuous. A soft chime, and the drone cradles wake in a synchronized wave, red eyes turning green; Zero-Day Key-Staff flares at the core as scrap-code floods the registry. Close on the waking eyes, then the blazing staff. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The drone cradles waking in a synchronized wave, red eyes turning green, Zero-Day's Key-Staff blazing at the core.]
 
 ---
@@ -1029,6 +1141,8 @@ SWARM TECH: It never is! That's the whole problem with you people!
 ZERO-DAY: (comm) Sector 9 is blind! Pull out, Swarm, now!
 
 But Arc Sentinel is already moving — not toward the noise, but toward the exact vent Zero-Day used, as if he'd read a map of the retreat that hadn't happened yet.
+
+[GENERATE: Hub rooftop at night, floodlit. Overwatch drones pour out and Arc Sentinel braced on stabilizer legs hauls a crackling arc projector; Swarm Tech conducts his swarm into the storm of rotors and sparks. Wide shot of the two swarms colliding. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Arc Sentinel framed against the blue arc-light, Overwatch drones filling the sky, Swarm Tech's swarm spiraling to meet them.]
 
@@ -1060,6 +1174,8 @@ ARC SENTINEL: Then you've never had anything worth obeying.
 
 The arc fires again. Swarm Tech throws his last reserve cluster into the beam, and the drones detonate in a curtain of sparks — a screen, just for a second — and Swarm Tech drops off the roof's edge into the dark below, toward the vent, toward Zero-Day.
 
+[GENERATE: Same rooftop, continuous. Arc Sentinel plants his stabilizer legs, the arc projector firing a neon-blue line through the sky, Swarm Tech throwing his last drones into a spark-curtain. Over-the-shoulder on Arc Sentinel, then Swarm Tech dropping off the edge. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Arc Sentinel on the roof's edge, projector glowing, the spark-curtain of dying drones between him and the sky.]
 
 ---
@@ -1083,6 +1199,8 @@ ZERO-DAY: We'll build better. Move.
 Above them, Arc Sentinel's projector fires again, and the arc sizzles into the water, throwing up a wall of steam. They dive into a service tunnel, and the light chases them down, then falls back. Arc Sentinel does not pursue. He stands at the street's edge, watching them go, and his voice carries down the tunnel, calm and terrible.
 
 ARC SENTINEL: (distant) The Director said you'd run this way, too.
+
+[GENERATE: Flooded street below the hub at night. Zero-Day bursts from the vent trailing green light, Swarm Tech hits the water beside him, and they flee as arc-light sizzles into the water in a wall of steam. Wide tracking shot of the two running. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day and Swarm Tech fleeing through the flooded street, steam rising from the arc-struck water, Arc Sentinel's silhouette at the tunnel mouth.]
 
@@ -1110,6 +1228,8 @@ VOICE IN THE STATIC: The one with the light for a head. Ask him who he was befor
 
 Neural Burn's eyes snap open. The static collapses back into noise, but the words stay, ringing in the jacks like a struck bell.
 
+[GENERATE: Basement at night, Neural Burn alone in his halo of stolen holo-screens, jacks sparking, spinal cables trailing. The static churns and forms words; his eyes snap open. Close on Neural Burn burned face lit by the screens. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Neural Burn alone in the halo of screens, the static still humming, his cables sparking faint blue.]
 
 ---
@@ -1129,6 +1249,8 @@ He reaches out, and the holo-map flickers, the old Sector 9 ghosting over the ne
 NEURAL BURN: What name? What's your name?
 
 The room doesn't answer. But somewhere in the rig, a single screen flickers on by itself, and a string of letters resolves, holds for a second, and dies: E-L-I-A-S.
+
+[GENERATE: Same basement, continuous. Neural Burn tears free of the rig and stumbles to the holo-map, where an older Sector 9 ghosts over the new like a stain; a single screen flickers the letters E-L-I-A-S. Close on the fading letters. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Neural Burn at the holo-map, the ghost-outline of an older Sector 9 bleeding through, the single screen with the letters fading.]
 
@@ -1156,6 +1278,8 @@ ARC SENTINEL: Before it happened.
 
 KAIROS: I wrote it.
 
+[GENERATE: Kairos command in the Arcology at night, the wall of screens replaying the Sector 9 attack. Kairos stands before it, clock-faced helm, as Arc Sentinel reports with steam rising from his stabilizer legs. Wide shot of the two before the replay. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos's helm reflected in the wall of screens, the replay of the Sector 9 attack still running, Arc Sentinel's silhouette behind him.]
 
 ---
@@ -1181,6 +1305,8 @@ The words land cold. Arc Sentinel stands very still, the stabilizer legs humming
 ARC SENTINEL: I signed up to keep the peace, Director. Not to... not to fight a war that's already over.
 
 KAIROS: (soft, final) The peace you signed up to keep is the loop, Sentinel. There's no version of this city that isn't already written. Now charge your projector. The next battle is already on the schedule.
+
+[GENERATE: Same command, continuous. Arc Sentinel shifts uneasily, his true-believer certainty wavering, Kairos helm ticking once in a circle. Close on Arc Sentinel helmet in the replay light. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Arc Sentinel's helmet caught in the replay's light, Kairos's clock-faced helm ticking once in a circle behind him.]
 
@@ -1214,6 +1340,8 @@ ZERO-DAY: What name?
 
 NEURAL BURN: (quiet, certain) *Elias.*
 
+[GENERATE: Basement, later that night. Zero-Day and Swarm Tech come through the grate, singed and alive; Swarm Tech cradles a broken rotor while Neural Burn waits, awake and strange. Close on Neural Burn terrible, certain gaze. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Neural Burn's steady, terrible gaze, Zero-Day frozen mid-step, Swarm Tech with the broken rotor forgotten in his hands.]
 
 ---
@@ -1245,6 +1373,8 @@ SWARM TECH: (quiet) Then who are you, Z?
 Zero-Day looks up, and for a half-second his face is the hologram again — a skull of light, code running like tears — and this time he doesn't snap it back. He lets it stay, long enough for all of them to see, before it fades.
 
 ZERO-DAY: I don't know. And I think that's what the city is waiting to find out.
+
+[GENERATE: Same basement, continuous. Zero-Day face blips into a hologram skull, longer this time, his hands shaking; Neural Burn, Swarm Tech and Ghost Walker close in at the edges of the green light. Close on Zero-Day flickering head. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day's flickering hologram head, Neural Burn's steady, terrible gaze, Swarm Tech and Ghost Walker at the edges of the green light.]
 
@@ -1278,6 +1408,8 @@ NEURAL BURN: In this *basement*.
 
 The water on the floor glows a little brighter, acid-green, and none of them can say why.
 
+[GENERATE: Same basement, continuous, the four sitting in the aftermath, the name Elias hanging over them, acid-green water glowing brighter. Wide shot of the four in the green dark. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The four in the green dark, the name Elias still hanging in the air, the water glowing at their feet like the city holding its breath.]
 
 ---
@@ -1289,6 +1421,22 @@ The water on the floor glows a little brighter, acid-green, and none of them can
 # EPISODE 04
 
 # ROOT ACCESS — EPISODE 4 — "pre-registered"
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 2 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 3 — reference_image: Zero-Day, Ghost Walker (one-off: Scavenger) | first_frame: establishing shot of the flooded under-level
+SCENE 4 — reference_image: Zero-Day, Ghost Walker | first_frame: establishing shot of the Root Terminal interior
+SCENE 5 — reference_image: Zero-Day, Ghost Walker | first_frame: previous scene last frame
+SCENE 6 — reference_image: Zero-Day, Ghost Walker | first_frame: previous scene last frame
+SCENE 7 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 8 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 9 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 10 — reference_image: Zero-Day (then all four) | first_frame: establishing shot of the server closet
+SCENE 11 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement main floor
+SCENE 12 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 13 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 14 — reference_image: Zero-Day | first_frame: establishing shot of the server closet
 
 ---
 
@@ -1317,6 +1465,8 @@ ZERO-DAY: I'll pull the fragment. Ghost walks point. Swarm covers our exit with 
 GHOST WALKER: If the grid predicts us, I want a dead drop, not a rescue.
 
 ZERO-DAY: Fine. Dead drop.
+
+[GENERATE: Flooded basement, day, a holo-schematic of a Root Terminal picked out in cold green lines above the table. Zero-Day, Swarm Tech, Ghost Walker and Neural Burn argue around it, faces lit green. Close on the schematic, then the four gathered. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The holo-schematic of the Root Terminal, the four gathered tight around it, the green light of the map on their faces.]
 
@@ -1347,6 +1497,8 @@ ZERO-DAY: That's the part that tells me we're on the right track. A terminal thi
 The four exchange a look — the look of people who have stopped asking whether it's a trap and started asking what the trap is for.
 
 GHOST WALKER: Then we spring it. Carefully.
+
+[GENERATE: Same basement, continuous. Swarm Tech circles the schematic jabbing at it, antenna crown catching light; Zero-Day finger rests on a service shaft. Medium shot of the four exchanging a wary look. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Swarm Tech pacing around the schematic, Zero-Day's finger on the service shaft, Neural Burn's face half-lit by the map.]
 
@@ -1382,6 +1534,8 @@ She lets the raft drift backward into the dark, her lamp swinging, and her voice
 
 SCAVENGER: Whatever you're looking for down there — it's been waiting for you to find it.
 
+[GENERATE: Flooded under-level at night, black water alive with reflected neon. Zero-Day and Ghost Walker glide in a small skiff, a scavenger girl drifting out on a half-inflated raft, hook-lamp raised. Wide shot of the skiff and raft in the dark water. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The scavenger's raft drifting into the dark, her hook-lamp swinging, the terminal's blue glow ahead of the skiff.]
 
 ---
@@ -1408,6 +1562,8 @@ GHOST WALKER: Make it fast. That light's going to draw every lens for a mile.
 
 ZERO-DAY: Then hold the door.
 
+[GENERATE: Inside the Root Terminal, a tower of cold light sunk into black water, cables dripping like roots. Zero-Day plugs the Key-Staff into the data spine and the under-level flares like a drowned cathedral. Wide shot as light floods the water. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day at the terminal core, Key-Staff blazing, the flooded under-level lit like a cathedral, Ghost Walker at the door in shadow.]
 
 ---
@@ -1429,6 +1585,8 @@ ZERO-DAY: Filtering for pre-broadcast entries... there. A fragment. It's small. 
 He stops. His hands freeze over the keys. The light from the core plays over his face, and his face is wrong — pale, hollowed, like a man seeing his own name on a tombstone.
 
 ZERO-DAY: Ghost. Come here.
+
+[GENERATE: Same terminal, continuous. Zero-Day fingers fly as millions of names pour past, his face going pale and hollowed as he filters deeper. Close on Zero-Day face in the core-light. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day frozen at the terminal, the core-light on his face, Ghost Walker turning from the door.]
 
@@ -1460,6 +1618,8 @@ ZERO-DAY: I've got the fragment. Let's move.
 
 He yanks the Key-Staff free, and the cathedral light collapses, plunging them back into the blue dark. They wade for the exit, the fragment burning on a data-slate against Zero-Day's chest, and behind them the terminal hums its patient, indifferent song.
 
+[GENERATE: Same terminal, continuous. Ghost Walker wades over, ripples through the silver light, and the two stare at the screen as a soft chime sounds and the lights flicker. Over-the-shoulder two-shot of them at the screen. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day and Ghost Walker retreating through the dark water, the terminal's blue glow receding, the fragment pulsing at Zero-Day's chest.]
 
 ---
@@ -1487,6 +1647,8 @@ GHOST WALKER: Then someone predicted us down to our names.
 ZERO-DAY: No. Someone *pre-registered* us. Like booking a room for guests who haven't arrived.
 
 The room goes cold. The four glance at each other, and for the first time, there's distance in it — a new, wary space between people who have shared everything and now find themselves wondering.
+
+[GENERATE: Basement, later that night, the fragment on every screen showing four pre-registered names. The four NU11 stand in a frozen circle, a new wary distance between them. Close on the names, then the four faces lit and suspicious. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The four names glowing on the screens, the crew's faces lit and suspicious, the distance between them already growing.]
 
@@ -1517,6 +1679,8 @@ GHOST WALKER: Do any of us remember before the flood?
 NEURAL BURN: No. None of us do. We never have.
 
 ZERO-DAY: (very quiet) And we never noticed.
+
+[GENERATE: Same basement, continuous. Swarm Tech accusation lands, and the four fall into a flicker of shared amnesia, each suddenly alone. Wide shot of the four standing apart in the green light. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The four standing apart, the fragment still glowing, each of them suddenly alone in the green light.]
 
@@ -1550,6 +1714,8 @@ The others fall silent. The silence is heavy — not the easy quiet of old frien
 
 NEURAL BURN: (low, to no one) It was always going to be four names. There were always going to be four.
 
+[GENERATE: Same basement, continuous, trust cracking in real time. Swarm Tech paces, Ghost Walker stands too still, Zero-Day reads the fragment, Neural Burn cables twitch. Slow push across the four, distance growing. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The four scattered now across the room, distance between them, the fragment still glowing, Swarm Tech's face caught mid-question.]
 
 ---
@@ -1579,6 +1745,8 @@ ZERO-DAY: The person who held the Key-Staff before I did. The one I took it from
 NEURAL BURN: He's dead.
 
 ZERO-DAY: He's supposed to be. This file says he pre-registered the four of us. Weeks before the conversion. A dead man filled out our paperwork.
+
+[GENERATE: Server closet, night, Zero-Day alone decrypting the fragment author signature, the Key-Staff across his knees, hours passing in the glow. Close on the resolving fifth name on screen. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day's face in the closet glow, the fifth name on screen above the Key-Staff, the crew packed in the doorway.]
 
@@ -1610,6 +1778,8 @@ GHOST WALKER: (quiet) None of us do.
 
 ZERO-DAY: Because there may not have been a before. For any of us.
 
+[GENERATE: Basement main floor, continuous, the fifth name on every screen. The four try to make sense of it, Swarm Tech face going slack as he realizes none of them remember before the flood. Close on Swarm Tech open, wordless mouth. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The four in the aftermath, Swarm Tech's face gone slack, the fifth name glowing on every screen around them.]
 
 ---
@@ -1638,6 +1808,8 @@ NEURAL BURN: The static says the truth is going to cost us.
 
 ZERO-DAY: It already has.
 
+[GENERATE: Same basement, continuous. Neural Burn speaks with terrible steadiness, and Zero-Day reaches for the Key-Staff, green light spilling over the four, shadows stretching huge. Wide shot of the four in the green spill. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The four in the green spill of the Key-Staff, shadows huge on the walls, the fifth name still burning on the screens.]
 
 ---
@@ -1664,6 +1836,8 @@ ZERO-DAY: So are we, apparently. We just haven't caught up to it yet.
 
 The red lights pass the grates, one by one, and the basement settles into the long, watchful dark.
 
+[GENERATE: Basement, later, no one sleeping. Swarm Tech holds a half-assembled drone, Ghost Walker watches the red drone-lights, Zero-Day stares at the fifth name as the Key-Staff hums. Slow pan across the four in the dark. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The basement in the dark, Zero-Day with the Key-Staff, the faint after-image of light still lingering in the closet doorway.]
 
 ---
@@ -1684,6 +1858,8 @@ The hologram skull flickers once, quick, across his reflection in the dead scree
 
 ZERO-DAY: Who signs a ledger a generation before he exists? Unless he's been here before. Unless *I've* been here before.
 
+[GENERATE: Server closet, later, Zero-Day working into the small hours, the ancient first entry of the ledger on screen, signed in his own hand. Close on his reflection in the dead screen, a hologram skull flickering once. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day's face in the closet glow, the ancient first entry on screen, the faint hologram flicker over his reflection.]
 
 ---
@@ -1695,6 +1871,23 @@ ZERO-DAY: Who signs a ledger a generation before he exists? Unless he's been her
 # EPISODE 05
 
 # ROOT ACCESS — EPISODE 5 — "the_previous_holder"
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 2 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 3 — reference_image: Zero-Day, Ghost Walker | first_frame: establishing shot of the Sprawl backstreet
+SCENE 4 — reference_image: Zero-Day, Ghost Walker (one-off: Ledger Lawyer) | first_frame: establishing shot of the abandoned law office
+SCENE 5 — reference_image: Zero-Day, Ghost Walker (one-off: Ledger Lawyer) | first_frame: previous scene last frame
+SCENE 6 — reference_image: Zero-Day, Ghost Walker (one-off: Ledger Lawyer) | first_frame: previous scene last frame
+SCENE 7 — reference_image: Director Kairos, Nexus Commander | first_frame: establishing shot of Kairos’s command in the Arcology
+SCENE 8 — reference_image: Director Kairos, Nexus Commander | first_frame: previous scene last frame
+SCENE 9 — reference_image: Zero-Day, Ghost Walker (one-off: Ledger Lawyer) | first_frame: establishing shot of the abandoned law office
+SCENE 10 — reference_image: Zero-Day, Ghost Walker (one-off: Ledger Lawyer) | first_frame: previous scene last frame
+SCENE 11 — reference_image: Zero-Day, Ghost Walker (one-off: Checkpoint Officer) | first_frame: establishing shot of the Sprawl backstreet
+SCENE 12 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 13 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 14 — reference_image: Zero-Day, Swarm Tech, Neural Burn | first_frame: previous scene last frame
+SCENE 15 — reference_image: Zero-Day, Ghost Walker | first_frame: previous scene last frame
 
 ---
 
@@ -1720,6 +1913,8 @@ GHOST WALKER: That's how the machine makes its own leaks.
 
 ZERO-DAY: That's how we cut it open.
 
+[GENERATE: Flooded basement, day, a ghost name pinned to the central screen, the crew hunting it. Zero-Day, Swarm Tech, Ghost Walker and Neural Burn gathered, shadows long. Close on the fifth name glowing on screen. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The fifth name on the central screen, the crew's shadows long across the basement, Zero-Day's hand on the rig.]
 
 ---
@@ -1743,6 +1938,8 @@ SWARM TECH: And if the grid already knows we're going?
 ZERO-DAY: It probably does. The question is whether the lawyer's file is worth the walk. It is.
 
 He stands, and the Key-Staff hums at his hip, and the crew moves like a machine that has learned, over a hundred nights, exactly how to move together.
+
+[GENERATE: Same basement, continuous. Swarm Tech pulls up the lawyer trail on screen; Zero-Day and Ghost Walker pull on gear as Neural Burn settles into the rig. Medium shot of the crew moving like a machine. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The lawyer's address on the screen, Zero-Day and Ghost Walker pulling on gear, Neural Burn settling into the rig.]
 
@@ -1768,6 +1965,8 @@ GHOST WALKER: (low) If this is a trap, I drop him and we burn the file.
 
 ZERO-DAY: It's not a trap. It's a *last will*.
 
+[GENERATE: Sprawl backstreet at night, corrugated tin and hanging cable, ankle-deep green water. Zero-Day and Ghost Walker slip between the lenses, pressing into a doorway as a drone passes overhead. Wide shot of the two in the gaps between camera arcs. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day and Ghost Walker in the backstreet, the shuttered loan-house ahead, a drone's red light sweeping past above.]
 
 ---
@@ -1791,6 +1990,8 @@ LEDGER LAWYER: The previous holder. You want to know who held the Key-Staff befo
 ZERO-DAY: You know about the Key-Staff.
 
 LEDGER LAWYER: I *wrote* the custody paperwork for it. I know it moves from hand to hand like a curse. And I know the corporation spent thirty years making sure no one remembers the hand before yours.
+
+[GENERATE: Abandoned law office above the waterline, shelves of moldering paper, a single lantern on a desk. The gaunt Ledger Lawyer sits behind it; Zero-Day and Ghost Walker enter through the back. Close on the lawyer thin face in the lantern light. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The dying lawyer behind the lantern-lit desk, Zero-Day and Ghost Walker at the door, the shelves of moldering paper.]
 
@@ -1817,6 +2018,8 @@ LEDGER LAWYER: I started with the corporation when I was younger than you. My fi
 ZERO-DAY: And the previous holder?
 
 LEDGER LAWYER: (quiet) He's the reason I'm dying. Because once you've signed a name out of existence, the city never quite trusts you to keep it gone. So it kept me poor, kept me watched, and kept me close enough to be useful. Until I wasn't.
+
+[GENERATE: Same office, continuous. The lawyer sets a cracked, wax-sealed data-slate on the desk between them and leans into the lantern light, eyes bright with a long-held secret. Close on the brittle seal, then his fevered face. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The lawyer's thin face in the lantern light, the brittle-sealed slate between them, Zero-Day's hand hovering over it.]
 
@@ -1845,6 +2048,8 @@ ZERO-DAY: Implying there's a *current* one. And the corporation's been resetting
 The lawyer coughs — a wet, terrible sound — and grips the desk to steady himself.
 
 LEDGER LAWYER: They don't just erase people. They erase *versions* of the city. And they keep one file so the next cycle has a template. You're looking at the template's old owner.
+
+[GENERATE: Same office, continuous. Zero-Day reads the unsealed slate, the color draining from the room; Ghost Walker leans over the screen. Close on Zero-Day face as the name resolves. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day holding the slate, the lawyer's gaunt face in the lantern light, Ghost Walker leaning over the screen.]
 
@@ -1876,6 +2081,8 @@ NEXUS COMMANDER: ...Replayed.
 
 KAIROS: Same as last time, Commander. Now go.
 
+[GENERATE: Kairos command in the Arcology at night, the wall of screens showing the Sprawl tightening in a noose of drones. Nexus Commander stands at attention, spotter drones at his shoulder. Wide shot of Kairos before the screens. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos's helm and the wall of screens, Nexus Commander's rigid silhouette, the two spotter drones hovering at his shoulder.]
 
 ---
@@ -1901,6 +2108,8 @@ KAIROS: Then do not tell them it is a rehearsal. Tell them it is a war they are 
 NEXUS COMMANDER: And Zero-Day?
 
 KAIROS: (soft) Zero-Day does not die. He has never died. He is the one thing in this city that is not permitted to end.
+
+[GENERATE: Same command, continuous. Nexus Commander questions the rehearsals, Kairos turning fully, the clock-faced helm making the room feel smaller. Close on the helm catching the light. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Kairos's clock helm full in the light, Nexus Commander's shadow long across the command floor, the wall of screens pulsing behind.]
 
@@ -1928,6 +2137,8 @@ ZERO-DAY: (a whisper) No. That's him. That's the previous holder. And he has my 
 
 LEDGER LAWYER: (smiling, faintly) I told you. You're not hunting a dead man. You're hunting the shape of the thing you already are.
 
+[GENERATE: Law office, later that night, the dying lawyer pushing a water-stained photograph across the desk. Zero-Day lifts it into the lantern light and both he and Ghost Walker go still. Close on the photograph in Zero-Day shaking hand. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The water-stained photograph in Zero-Day's shaking hand — a hologram head that is his own.]
 
 ---
@@ -1950,6 +2161,8 @@ The siren rises. Boots echo in the stairwell below. The lawyer closes his eyes a
 
 LEDGER LAWYER: Now go. Before they file me too.
 
+[GENERATE: Same office, continuous. A checkpoint siren rises below, boots echo in the stairwell, and the lawyer settles back at peace, red emergency light seeping up. Medium shot of the lawyer and the photograph. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The dying lawyer at peace in the lantern light, the photograph clutched in Zero-Day's hand, red emergency light seeping up the stairwell.]
 
 ---
@@ -1965,6 +2178,8 @@ CHECKPOINT OFFICER: Stop! Municipal Security! Present your ledgers!
 GHOST WALKER: (to Zero-Day, low) Drain grate. Now.
 
 They drop through a grate into the flooded under-levels as the street above fills with light and shouting. The photograph is safe against Zero-Day's chest, and the slate, and the name. The water closes over them, cold and green, and the checkpoint above sounds its long, unanswered call.
+
+[GENERATE: Sprawl backstreet at night. Zero-Day and Ghost Walker burst out as white-plated soldiers round the corner; Ghost Walker neural spike arcs and shatters a camera lens, plunging the street into dark. Wide shot of the escape, then the grate. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day and Ghost Walker dropping through the grate, the checkpoint officer's light sweeping the street above, the water closing over their heads.]
 
@@ -2002,6 +2217,8 @@ SWARM TECH: And if it means you're him?
 
 ZERO-DAY: (a long beat) Then I have a lot of questions for a dead man.
 
+[GENERATE: Basement, later that night, the photograph on the table, the four NU11 standing around it in silence. Close on the hologram head in the photograph, then the four faces around it. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The photograph on the table, the four NU11 gathered around it, the hologram head reflected in Zero-Day's eyes.]
 
 ---
@@ -2022,6 +2239,8 @@ NEURAL BURN: The static's been saying it since the beginning. The city doesn't h
 
 The words settle over the basement like cold water. Somewhere above, the grid's red lights drift past the grates, and the photograph of the previous holder — the first cycle, the first run — keeps staring up at the man who holds the same staff, the same head, the same unfinished war.
 
+[GENERATE: Basement, later, the long watch. Swarm Tech runs the photograph through scanners, Ghost Walker at the grates, Neural Burn in his screens, Zero-Day holding the photo to the light. Slow pan across the four. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day and the photograph, the grid's red lights passing the grates, the basement sinking into green shadow.]
 
 ---
@@ -2039,6 +2258,8 @@ NEURAL BURN: It's under the noise. Buried. But it's there. The city knows his na
 ZERO-DAY: The static remembers what the corporation scrubbed. That's why Kairos's people wiped every record — because the city itself never forgets. It just needs the right antenna.
 
 NEURAL BURN: (opening his eyes) I'm the right antenna. Give me time. I'll pull his name out of the noise.
+
+[GENERATE: Basement, later, Neural Burn with the photograph in his lap, jacked into the rig, the static resolving into a name at the edge of hearing. Close on Neural Burn face, then the screens half-forming a word. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Neural Burn with the photograph, the static resolving on the screens, the name half-formed at the edge of hearing.]
 
@@ -2062,6 +2283,8 @@ GHOST WALKER: (a long look) That's how people get burned, Zero-Day. Look at Neur
 
 ZERO-DAY: I know. But I don't think I have a choice anymore.
 
+[GENERATE: Basement, later, Zero-Day and Ghost Walker at the grates looking up at red drone-lights, the plan forming, the Key-Staff humming at Zero-Day hip. Medium two-shot at the grates. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day and Ghost Walker at the grates, the red drone-lights passing, the Key-Staff humming faint at Zero-Day's hip.]
 
 ---
@@ -2073,6 +2296,22 @@ ZERO-DAY: I know. But I don't think I have a choice anymore.
 # EPISODE 06
 
 # ROOT ACCESS — EPISODE 6 — "blackout"
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day | first_frame: establishing shot of the Basement
+SCENE 2 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 3 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 4 — reference_image: Zero-Day (one-off: Stall Keeper) | first_frame: establishing shot of the Sprawl night market
+SCENE 5 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 6 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the server node under-level
+SCENE 7 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 8 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 9 — reference_image: Zero-Day | first_frame: establishing shot of the server closet
+SCENE 10 — reference_image: Zero-Day | first_frame: previous scene last frame
+SCENE 11 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement main floor
+SCENE 12 — reference_image: Zero-Day, Neural Burn | first_frame: previous scene last frame
+SCENE 13 — reference_image: Zero-Day | first_frame: establishing shot of the server closet
+SCENE 14 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement main floor
 
 ---
 
@@ -2089,6 +2328,8 @@ Black.
 The last thing he sees is his own hand, reaching, and the staff drinking it in.
 
 ZERO-DAY: (fading) ...I'm not... supposed to be able to do this...
+
+[GENERATE: Basement at night, Zero-Day alone before the Key-Staff standing in a cradle of cables, the lawyer photograph pinned beside it. He grips the staff and code floods his eyes, the hologram skull flaring full. Close on the luminous skull. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day rigid at the staff, his head a full hologram skull, the photograph watching from the wall.]
 
@@ -2122,6 +2363,8 @@ ZERO-DAY: Then why are there hours missing from my head?
 
 NEURAL BURN: (quiet) There are hours missing from everyone's head tonight. You're not special. You're just the only one who noticed.
 
+[GENERATE: Basement, later, Zero-Day waking on the floor, mouth tasting of copper, the clock reading wrong by hours. Swarm Tech shakes him, fear in his face, Ghost Walker and Neural Burn gathered. Close on Zero-Day dazed face, then the wrong clock. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day on the floor, the crew gathered over him, the clock on the wall reading wrong.]
 
 ---
@@ -2151,6 +2394,8 @@ ZERO-DAY: You're all lying to me. Or I'm lying to myself. Which is it?
 SWARM TECH: Z, calm down. You're scaring me.
 
 ZERO-DAY: Good. I should scare you. Because I don't know what I did, and neither do you, and one of us is covering for the thing that did it.
+
+[GENERATE: Same basement, continuous. Zero-Day walks the room touching things, testing memory, noticing a smudge on Ghost Walker poncho and a scrape on Swarm Tech bracer. Close on the fresh scrape, then Zero-Day accusing face. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day circling the room, the crew's faces split between worry and something guarded.]
 
@@ -2192,6 +2437,8 @@ ZERO-DAY: Are you sure it was me?
 
 STALL KEEPER: (softly) I've been selling parts on this corner forty years, boy. I know a ghost when I see one. And last night, a ghost with your face walked out of the dark and went down into the water.
 
+[GENERATE: Sprawl night market, half-shuttered under drone-light. Zero-Day questions an old stall keeper beside a single lantern; she studies him, then says the man she saw had his face. Close on her lantern-lit face. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The stall keeper's lantern-lit face, Zero-Day frozen before her, the shuttered night market stretching behind them.]
 
 ---
@@ -2219,6 +2466,8 @@ ZERO-DAY: So I might have left. I might have gone down to the under-level. And n
 GHOST WALKER: Where would any of us go, Zero-Day? What would any of us *do*?
 
 ZERO-DAY: That's the question, isn't it.
+
+[GENERATE: Basement, night, Zero-Day slamming the door and turning on the crew, the accusation hanging in the green air. Swarm Tech and Ghost Walker exchange an uncertain look. Medium shot of Zero-Day facing them. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day facing the crew, the accusation hanging in the green air, the crew's faces uncertain in the dark.]
 
@@ -2252,6 +2501,8 @@ ZERO-DAY: I wasn't here.
 
 GHOST WALKER: The code says otherwise.
 
+[GENERATE: Server node in the flooded under-level at night, racks wiped clean, water warm and steaming. The four NU11 descend through alarms; Zero-Day checks the node clock and freezes. Wide shot of the dead node, then close on the timestamp. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The wiped node in the dark, Zero-Day's hand hovering over the residual log, the steam rising from the dead racks.]
 
 ---
@@ -2277,6 +2528,8 @@ NEURAL BURN: I don't know. But whatever it was, it's gone now. And the hole it l
 Zero-Day stares at the residual log, at the code burned into the node's last breath — and it is his code. His signature. His hand, pressed into a room he swears he never entered.
 
 ZERO-DAY: I need to rebuild this. Frame by frame. Alone.
+
+[GENERATE: Same node, continuous. Zero-Day pulls the residual log apart with shaking hands, his own handprint of code glowing in the system last breath. Close on Zero-Day reflection in the dead screen. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day's reflection in the dead node's screen, the residual handprint glowing faintly, the crew watching from the dark.]
 
@@ -2306,6 +2559,8 @@ He turns to the staff, and for a long moment it's just him and the dark thing hu
 
 ZERO-DAY: I'm going to find out what I did. Even if it's the last thing I do.
 
+[GENERATE: Basement, later that night, paranoia settling in. Zero-Day paces as the crew keeps a careful distance, the dark Key-Staff humming in its cradle, the photograph flickering on the wall. Wide shot of the uneasy room. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day and the dark Key-Staff, the crew watching from the edges, the photograph flickering on the wall.]
 
 ---
@@ -2330,6 +2585,8 @@ Zero-Day's breath catches. The name from the static. The name Neural Burn heard.
 
 ZERO-DAY: (barely audible) I came down here. I did this. And I was looking for — I was looking for *me*.
 
+[GENERATE: Server closet, night, Zero-Day alone at a private terminal rebuilding the wipe frame by frame. The residual data yields a single flickering fragment: Elias. Close on the name flickering in the cold light. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day hunched over the private terminal, the single fragment "Elias" flickering in the residual data.]
 
 ---
@@ -2351,6 +2608,8 @@ ZERO-DAY: It's me. It's all me. I've done this before. I've wiped this node befo
 He grips the terminal's edge, and the hologram light spills across the closet walls, filling the small dark room with the glow of a head that is no longer entirely his own.
 
 ZERO-DAY: The staff. The blackout. The handprint. It's not someone else using my code. It's the *last time I did this*, bleeding through.
+
+[GENERATE: Same closet, continuous. Zero-Day follows his own signature through the dark, and his face blips to the hologram skull and stays, light spilling across the walls. Close on the steady hologram head. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day's hologram head reflected in the terminal, the residual message burning beneath it, light spilling across the closet.]
 
@@ -2382,6 +2641,8 @@ NEURAL BURN: The static says you're almost there. That the truth is close. And t
 
 ZERO-DAY: It already does.
 
+[GENERATE: Basement main floor, continuous, Zero-Day emerging with the hologram skull refusing to settle. Swarm Tech steps back, the crew at a careful distance. Close on Zero-Day flickering head. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day standing in the green dark, the hologram skull steady on his shoulders, the crew at a careful distance.]
 
 ---
@@ -2406,6 +2667,8 @@ NEURAL BURN: You'll do it again. Unless you learn to stay awake through it.
 
 Zero-Day stares at his own reflection in the staff's surface — the flickering skull of light, the running code, the face he's not sure is his. The photograph of the previous holder stares back from the wall, identical, patient, waiting.
 
+[GENERATE: Basement, later, Zero-Day alone at the central table, staff before him, photograph beside it, the residual message burning behind. Neural Burn voice comes soft from the doorway. Close on Zero-Day reflection in the staff. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day and the staff, the photograph and the residual message glowing behind him, the crew at the edges of the green light.]
 
 ---
@@ -2424,6 +2687,8 @@ He stares at the stack of signatures — his own face, repeated, fading into the
 
 ZERO-DAY: I'm not the first me to lose hours to this. I'm just the latest.
 
+[GENERATE: Server closet, night, Zero-Day pulling layer after layer of identical signatures from the residual data, his own face repeating and fading into the deep. Close on the stacked signatures on screen. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The stacked signatures in the residual data, Zero-Day's face repeated and fading into the deep, the hologram skull steady on his shoulders.]
 
 ---
@@ -2440,6 +2705,8 @@ SWARM TECH: Or you won't come back at all.
 
 ZERO-DAY: Then I'd better make it count. Because whatever's been running me through these blackouts — it's not going to keep me forever. And I'm not going to let it keep the city, either.
 
+[GENERATE: Basement main floor, continuous, Zero-Day emerging with grim resolve, the crew watching, the Key-Staff humming in its cradle. Wide shot of the four in the green dark. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day in the green dark, the crew watching, the Key-Staff humming in its cradle like a thing waiting.]
 
 ---
@@ -2451,6 +2718,23 @@ ZERO-DAY: Then I'd better make it count. Because whatever's been running me thro
 # EPISODE 07
 
 # ROOT ACCESS — EPISODE 7 — "the_old_broadcast"
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 2 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 3 — reference_image: Zero-Day, Swarm Tech (one-off: Shrine Keeper) | first_frame: establishing shot of the Sprawl market street
+SCENE 4 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 5 — reference_image: Zero-Day, Neural Burn | first_frame: establishing shot of the Root deep layer
+SCENE 6 — reference_image: Zero-Day, Neural Burn | first_frame: previous scene last frame
+SCENE 7 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 8 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 9 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 10 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 11 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 12 — reference_image: Director Kairos, Nexus Commander | first_frame: establishing shot of Kairos’s command in the Arcology
+SCENE 13 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 14 — reference_image: Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 15 — reference_image: Zero-Day, Neural Burn | first_frame: previous scene last frame
 
 ---
 
@@ -2473,6 +2757,8 @@ NEURAL BURN: (turning) Everything.
 He throws a switch, and the static on his screens begins to *resolve*. Beneath the noise, beneath the hum of the living grid, something else surfaces — a deeper layer, an older signal, like a second city running underneath the first.
 
 NEURAL BURN: Listen.
+
+[GENERATE: Basement at night, Neural Burn at the center of a ring of flickering holo-screens, jacks sparking, the others hanging back in the ozone-tinged air. He throws a switch and the static begins to resolve. Close on his burned face. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Neural Burn in the ring of screens, the static beginning to resolve into shapes, the crew watching from the edges.]
 
@@ -2499,6 +2785,8 @@ ZERO-DAY: The flooded city is sitting on top of an older version of itself. Stil
 SWARM TECH: Remembering. That's what you said about the grid. That it remembers.
 
 NEURAL BURN: Because it does. The whole thing is one machine, and the machine never forgets a cycle.
+
+[GENERATE: Same basement, continuous. Ghost-signals fill the room, an old traffic camera resolving from the noise showing a drowned corner alive again, a tram running through water. Close on the old feed, then the stunned crew. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The old traffic camera feed on Neural Burn's screens — a drowned corner, alive again, a tram running through water.]
 
@@ -2528,6 +2816,8 @@ ZERO-DAY: (quiet) That jingle. Where did you learn it?
 
 SHRINE KEEPER: From the water, boy. Same place you did.
 
+[GENERATE: Sprawl market street, day, Zero-Day and Swarm Tech stopping at a server-shrine altar of salvaged boards and candle-light. An old shrine keeper hums the ghost-jingle, and they exchange a look. Close on the candles and the keeper cracked humming. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The server-shrine in the market, candle-light on the salvaged boards, the old keeper humming the ghost-jingle.]
 
 ---
@@ -2554,6 +2844,8 @@ Zero-Day stares at the two jingles playing together, and something in his face h
 
 ZERO-DAY: We need to go deeper. Not just listen to the old city. Go *into* it.
 
+[GENERATE: Basement, later that night, the keeper jingle and the ghost-signal layered on the screens, one voice answering the other across a drowned gap of years. Close on Zero-Day face lit between the two. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The two jingles layered on the screens — the keeper's voice and the ghost-signal — Zero-Day's face lit between them.]
 
 ---
@@ -2578,6 +2870,8 @@ A transmission flickers into focus — a familiar cadence. The seal. The voice. 
 
 ZERO-DAY: Neural. Pull that up. The last one.
 
+[GENERATE: Deep Root layer accessed via terminal, a vertiginous descent where code becomes geography, an old skyline rendered in dead data. Zero-Day and Neural Burn descend, cables streaming with light. Wide shot of the two dropping into the dead skyline. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The old city's skyline rendered in dead data, one transmission glowing at its center, Zero-Day and Neural Burn descending toward it.]
 
 ---
@@ -2597,6 +2891,8 @@ ZERO-DAY: And the transmission at its center — that's what we're about to find
 The familiar cadence swells around them — the corporate seal, the even voice, the words that every citizen knows by heart. But the seal is wrong. Older. The voice is the same, but the signal is faded, like a recording played through water.
 
 ZERO-DAY: This is it. Pull it up and bring it home.
+
+[GENERATE: Same deep layer, continuous. The dead city resolves around them, a transmission swelling at its center, an older seal glowing through water-faded signal. Wide shot of the two in the heart of the preserved city. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day and Neural Burn in the heart of the dead city, the old transmission swelling around them like a tide.]
 
@@ -2626,6 +2922,8 @@ GHOST WALKER: They've run the conversion before.
 
 NEURAL BURN: They've run *everything* before.
 
+[GENERATE: Basement, later that night, the old broadcast playing on every screen, an older seal turning. The four NU11 stand frozen in a loose circle. Close on the older seal, then the four faces lit by it. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The four faces lit by the old broadcast, the older seal glowing on the screens, the water reflecting it back.]
 
 ---
@@ -2651,6 +2949,8 @@ NEURAL BURN: Every step. Every fight. Every name in the ledger. It's all been do
 The room is very quiet. On the screens, the old broadcast loops, its older seal turning, its calm voice repeating the same promise that ended cash and anonymity in a city that no longer quite exists.
 
 ZERO-DAY: Then who are we? The people it happened to, or the people it *keeps* happening to?
+
+[GENERATE: Same basement, continuous, the pieces locking together. The four exchange a look as the old broadcast loops, its calm voice repeating the same promise. Wide shot of the four in the looping light. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The looping old broadcast, the four NU11 in its light, the question hanging in the green air.]
 
@@ -2680,6 +2980,8 @@ Zero-Day's head blips — the hologram skull flickering, longer and longer each 
 
 ZERO-DAY: Then we've already lost. We just don't remember the fight.
 
+[GENERATE: Same basement, continuous. Neural Burn isolates the recording until it is crystal clear, the final line ringing out; Zero-Day head blips, the hologram skull flickering longer. Close on the timestamp, then Zero-Day flickering head. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The timestamp of the old broadcast, Zero-Day's flickering hologram head beside it.]
 
 ---
@@ -2706,6 +3008,8 @@ He looks up at the grates, at the red drone-lights drifting past, and his face f
 
 ZERO-DAY: The static was right, Neural. The truth is down there, in the layers. And we've only just started to find it.
 
+[GENERATE: Basement, later, the weight of the revelation settling. Swarm Tech stares at nothing, Ghost Walker at the grates, Neural Burn in dim screens, Zero-Day face flickering once. Slow pan across the dim room. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The crew in the dim basement, Zero-Day at the grates, the red drone-lights passing, the old broadcast still looping faintly behind.]
 
 ---
@@ -2729,6 +3033,8 @@ ZERO-DAY: Because the loop's still running. Whatever we've done, in every run, i
 He picks up the Key-Staff, and it glows in his fist, throwing long shadows up the flooded walls.
 
 ZERO-DAY: We go down. All the way down. Past the old broadcast. Past the dead city. To the heart of the Root itself.
+
+[GENERATE: Basement, later, the four sitting in green half-dark, none reaching for a screen or weapon. Zero-Day picks up the Key-Staff and it glows in his fist. Close on the staff glowing, then the four gathered. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day with the Key-Staff glowing, the three others gathered around, the basement walls stretching with green shadow.]
 
@@ -2756,6 +3062,8 @@ NEXUS COMMANDER: Then should I intercept? Drive them out of the deep layers?
 
 KAIROS: No. Let them find it. The template was always meant to be found. The question is only *when* — and when is exactly what has changed tonight.
 
+[GENERATE: Kairos command in the Arcology at night, the wall of screens flagging a deep-layer probe. Kairos stands before it as Nexus Commander reports, spotter drones humming. Close on Kairos helm reflected in the screens. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos's helm reflected in the wall of screens, the deep-layer probe flag pulsing, Nexus Commander's spotter drones hovering.]
 
 ---
@@ -2779,6 +3087,8 @@ Zero-Day pulls the three recordings up side by side — identical, but for their
 ZERO-DAY: How deep does it go?
 
 NEURAL BURN: (quiet) Deeper than I can hear. Deeper than the static remembers. Somewhere down there is the first one. The original. And beneath that — nothing.
+
+[GENERATE: Basement, night, three identical broadcasts side by side on the screens, their dates spiraling back like a staircase into water. The crew stares at the stacked layers. Close on the three identical seals. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Three identical broadcasts side by side on the screens, their dates spiraling back, the crew staring at the stacked layers.]
 
@@ -2806,6 +3116,8 @@ GHOST WALKER: Then I'll try. To feel it, instead of filing it.
 
 SWARM TECH: That's all any of us can do.
 
+[GENERATE: Basement, later that night, Swarm Tech and Ghost Walker sitting apart from the screens, the stacked broadcasts glowing behind them. Close on the two in the green dark. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Swarm Tech and Ghost Walker in the green dark, apart from the screens, the stacked broadcasts glowing behind them.]
 
 ---
@@ -2828,6 +3140,8 @@ NEURAL BURN: (soft) Maybe it's buried for a reason.
 
 ZERO-DAY: Then that reason's exactly what we need to find.
 
+[GENERATE: Basement, later, Zero-Day and Neural Burn alone at the rig, the three broadcasts still glowing, the dates spiraling back. Close on Zero-Day fingers resting on the keys, staring into the dark. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day and Neural Burn at the rig, the three broadcasts glowing, the dates spiraling back into the dark.]
 
 ---
@@ -2839,6 +3153,21 @@ ZERO-DAY: Then that reason's exactly what we need to find.
 # EPISODE 08
 
 # ROOT ACCESS — EPISODE 8 — "the_clock"
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 2 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 3 — reference_image: Swarm Tech | first_frame: establishing shot of the Sprawl street
+SCENE 4 — reference_image: Neural Burn, Arc Sentinel | first_frame: establishing shot of the Sprawl sweep
+SCENE 5 — reference_image: Swarm Tech, Ghost Walker, Arc Sentinel | first_frame: previous scene last frame
+SCENE 6 — reference_image: Swarm Tech, Ghost Walker, Zero-Day | first_frame: establishing shot of the Basement
+SCENE 7 — reference_image: Swarm Tech, Ghost Walker, Zero-Day | first_frame: previous scene last frame
+SCENE 8 — reference_image: Swarm Tech, Ghost Walker, Zero-Day | first_frame: previous scene last frame
+SCENE 9 — reference_image: Zero-Day (one-off: Skybridge Operator) | first_frame: establishing shot of the skybridge approach
+SCENE 10 — reference_image: Zero-Day, Director Kairos | first_frame: establishing shot of Kairos’s private chamber
+SCENE 11 — reference_image: Zero-Day, Director Kairos | first_frame: previous scene last frame
+SCENE 12 — reference_image: Zero-Day, Director Kairos | first_frame: previous scene last frame
+SCENE 13 — reference_image: Zero-Day, Director Kairos | first_frame: previous scene last frame
 
 ---
 
@@ -2869,6 +3198,8 @@ The room cracks. Swarm Tech turns away. Ghost Walker goes still. And Zero-Day st
 ZERO-DAY: We don't splinter. Not now.
 
 NEURAL BURN: Too late.
+
+[GENERATE: Basement at night, the four NU11 standing apart, voices rising, the old broadcast looping on a dead screen between them. Zero-Day at the center unable to hold it together. Wide shot of the splintering four. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The four pulled apart in the basement, the old broadcast still looping between them.]
 
@@ -2910,6 +3241,8 @@ SWARM TECH: The grid's always watching. That's the whole point of this hell.
 
 He shoulders past, and the door clangs behind him.
 
+[GENERATE: Same basement, continuous, the argument turning sharp and personal. Swarm Tech rounds on Neural Burn, and Zero-Day head blips fast and white; Swarm Tech grabs his drone pack and shoulders past Ghost Walker. Close on Zero-Day white flicker. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Swarm Tech at the door, Ghost Walker blocking, the others frozen mid-argument, the old broadcast flickering.]
 
 ---
@@ -2927,6 +3260,8 @@ A lens swivels as he passes. Then another. Then a drone dips low, its light pinn
 SWARM TECH: No. No, no, no—
 
 He runs. The drone follows. And behind him, out of the cross-streets, white-plated soldiers begin to pour into the Sprawl — a full corporate sweep, checkpoint by checkpoint, block by block, and Swarm Tech has walked straight into the middle of it.
+
+[GENERATE: Sprawl street at night, tense, Swarm Tech walking alone with the drone pack heavy, his antenna crown crackling. A drone dips low and pins him in its light as white-plated soldiers pour into the streets. Wide shot of him caught in the light. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Swarm Tech caught in the drone-light, the sweep pouring into the streets behind him.]
 
@@ -2952,6 +3287,8 @@ The projector fires. Neural Burn goes down in a net of light, captured — not k
 
 ARC SENTINEL: (low) I'm sorry. It's the job.
 
+[GENERATE: Sprawl sweep at night, checkpoints and drones and white-plated soldiers down the flooded streets. Neural Burn turns toward Arc Sentinel arc projector like greeting an old friend, then goes down in a net of light. Close on Neural Burn calm face. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Neural Burn limp in Arc Sentinel's grip, the sweep roaring around them, the mother's shutter slamming in the doorway.]
 
 ---
@@ -2971,6 +3308,8 @@ They fall back, and the sweep rolls over the block behind them, and the last thi
 SWARM TECH: (broken) I walked out. I walked out and he came after me. It's my fault.
 
 GHOST WALKER: It's all of ours. Now run.
+
+[GENERATE: Same sweep, continuous. Swarm Tech starts forward and Ghost Walker grabs his arm, pulling him back toward the drain grate as Arc Sentinel carries Neural Burn away. Wide shot of the retreat, the sweep closing the block. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Swarm Tech and Ghost Walker retreating into the dark, Arc Sentinel carrying Neural Burn away, the sweep closing the block.]
 
@@ -2999,6 +3338,8 @@ SWARM TECH: So what do we do, Zero? You're the one who's supposed to know the ne
 Zero-Day has no answer. For the first time, the master hacker stands in the middle of his own basement and comes up empty.
 
 ZERO-DAY: I don't know. I don't know anymore.
+
+[GENERATE: Basement, later that night, three figures where there were four, the empty fourth chair conspicuous. Swarm Tech sits with his head in his hands, Ghost Walker at the grates, Zero-Day staring at the door. Wide shot of the three and the bare chair. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Three figures in the empty basement, the fourth chair conspicuously bare.]
 
@@ -3034,6 +3375,8 @@ The three lock eyes. Every instinct says don't. But Zero-Day is already reaching
 
 ZERO-DAY: I'm going up.
 
+[GENERATE: Same basement, later, a clean white invitation card glowing on the table, addressed to Zero-Day by name, a clock face for a seal. The three lock eyes. Close on the invitation, then Zero-Day reaching for his coat. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day reaching for the Key-Staff, the invitation card glowing on the table.]
 
 ---
@@ -3061,6 +3404,8 @@ Zero-Day looks at the Key-Staff in his fist, then at the invitation on the table
 ZERO-DAY: Then I go armed with the truth. And if the truth's a trap, I'll spring it and see what's on the other side.
 
 He pulls on the coat, and the living code ripples over his shoulders. The staff hums. The door is open before him, and the drowned city waits beyond it, rising toward the white.
+
+[GENERATE: Same basement, continuous. Swarm Tech blocks the door, desperate; Zero-Day pulls on the coat of living code, the staff humming in his fist, the drowned city waiting beyond the open door. Close on the staff, then Zero-Day at the threshold. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day in the living-code coat, staff in hand, Swarm Tech and Ghost Walker watching him go.]
 
@@ -3098,6 +3443,8 @@ SKYBRIDGE OPERATOR: He had your face, too.
 
 Zero-Day stops, but doesn't turn around. Then he walks on, across the bridge, into the white.
 
+[GENERATE: Skybridge approach at night, Zero-Day climbing out of the drowned lower city into clean upper air, rust below and chrome above. An old skybridge operator steps aside and keys the gate. Wide shot of Zero-Day crossing onto the white span. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day crossing the skybridge, the Arcology blazing ahead, the old operator watching from the gate.]
 
 ---
@@ -3121,6 +3468,8 @@ KAIROS: Patient. That's all. The rest you're about to learn.
 Kairos turns. Slowly, deliberately, he reaches up and lifts the clock-faced helm from his head, setting it aside on a low table. What's beneath is ordinary, and ancient, and terribly familiar. And when he speaks again, it is not the voice of a corporate director.
 
 KAIROS: You're not the first.
+
+[GENERATE: Kairos private chamber, the highest room in the city, glass on every side, the flood glittering below. Zero-Day enters alone; Kairos waits with his back to him and lifts the clock-faced helm from his head. Close on the helm being lifted. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Kairos lifting the helm from his head, the city's light on his face, Zero-Day frozen across the room.]
 
@@ -3156,6 +3505,8 @@ ZERO-DAY: Then why tell me now?
 
 KAIROS: (soft, almost sad) Because this time, I want you to remember.
 
+[GENERATE: Same chamber, continuous. Kairos revealed face is ancient and familiar, and Zero-Day recognizes the voice from the static. Close on Zero-Day stunned face, then Kairos. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos's face fully revealed, Zero-Day recognizing the voice at last, the city glittering below them.]
 
 ---
@@ -3184,6 +3535,8 @@ ZERO-DAY: You're letting me go.
 
 KAIROS: I let you go every time. That's how the loop works. The warden doesn't keep the prisoner in. He keeps *something else* out.
 
+[GENERATE: Same chamber, continuous. Zero-Day grips the Key-Staff, his hologram skull threatening to stay, as Kairos gestures to the city glittering below. Over-the-shoulder on Zero-Day at the glass. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos at the glass, the city small below, Zero-Day's flickering hologram head reflected in the window.]
 
 ---
@@ -3210,6 +3563,8 @@ He picks up the clock-faced helm, and the clock face ticks once — in a circle 
 
 KAIROS: Same as last time. Go.
 
+[GENERATE: Same chamber, continuous. Kairos turns from the glass, a real smile crossing the ancient face, and lifts the helm back into place, its clock ticking once in a circle. Close on the clock face ticking. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos lifting the helm back into place, the clock face ticking in a circle, Zero-Day at the threshold with the staff in his hand.]
 
 ---
@@ -3221,6 +3576,22 @@ KAIROS: Same as last time. Go.
 # EPISODE 09
 
 # ROOT ACCESS — EPISODE 9 — "the_previous_zero-day"
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day, Director Kairos | first_frame: establishing shot of Kairos’s private chamber
+SCENE 2 — reference_image: Zero-Day, Director Kairos | first_frame: previous scene last frame
+SCENE 3 — reference_image: Zero-Day, Director Kairos (one-off: Archivist) | first_frame: establishing shot of the sealed archive
+SCENE 4 — reference_image: Zero-Day, Director Kairos (one-off: Archivist) | first_frame: previous scene last frame
+SCENE 5 — reference_image: Zero-Day, Director Kairos (one-off: Archivist) | first_frame: previous scene last frame
+SCENE 6 — reference_image: Zero-Day, Director Kairos (one-off: Archivist) | first_frame: previous scene last frame
+SCENE 7 — reference_image: Zero-Day, Director Kairos (one-off: Archivist) | first_frame: previous scene last frame
+SCENE 8 — reference_image: Swarm Tech, Ghost Walker, Neural Burn | first_frame: establishing shot of the Sprawl basement door
+SCENE 9 — reference_image: Swarm Tech, Ghost Walker, Neural Burn | first_frame: previous scene last frame
+SCENE 10 — reference_image: Zero-Day, Director Kairos (one-off: Archivist) | first_frame: establishing shot of the sealed archive
+SCENE 11 — reference_image: Zero-Day, Director Kairos (one-off: Archivist) | first_frame: previous scene last frame
+SCENE 12 — reference_image: Zero-Day, Director Kairos (one-off: Archivist) | first_frame: previous scene last frame
+SCENE 13 — reference_image: Zero-Day | first_frame: establishing shot of the skybridge approach
+SCENE 14 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
 
 ---
 
@@ -3243,6 +3614,8 @@ KAIROS: I'm going to show you what the clock is. Not a weapon. Not a schedule. A
 ZERO-DAY: Show me.
 
 KAIROS: I was counting on you to say that.
+
+[GENERATE: Kairos private chamber at night, the city glittering far below. The clock-faced helm sits on the table between Zero-Day and Kairos, its face turning in a circle; a wall of the chamber becomes an archive screen. Close on the helm ticking in a circle. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Kairos's helm ticking in a circle on the table, the wall of the chamber becoming an archive screen.]
 
@@ -3272,6 +3645,8 @@ ZERO-DAY: He's dead.
 
 KAIROS: He's *archived*. Which, in this city, is not the same thing.
 
+[GENERATE: Same chamber, continuous. Zero-Day steps toward the archive screen as Kairos walks beside him like conducting a tour, the sealed records shimmering into focus. Wide two-shot of them before the shimmering screen. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day and Kairos before the archive screen, the sealed records shimmering into focus.]
 
 ---
@@ -3296,6 +3671,8 @@ ZERO-DAY: (barely a breath) That's me.
 
 KAIROS: No. That's the previous you.
 
+[GENERATE: Sealed archive deep in the Arcology, a vault of white light and records. The archivist keys the rig, the vault darkens, and grainy footage begins: a figure with the Key-Staff and a hologram head. Close on the footage resolving. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The sealed footage — the previous Zero-Day, hologram head blazing, the same Key-Staff.]
 
 ---
@@ -3317,6 +3694,8 @@ Zero-Day stares at the footage — the man with his face, his staff, his war —
 ZERO-DAY: He's... me. But not me.
 
 KAIROS: He's the original. You're the render.
+
+[GENERATE: Same archive, continuous. The footage unspools: the previous Zero-Day opens every camera and ledger at once, eleven seconds of truth flooding the citywide broadcast before the signal slams shut. Wide shot of Zero-Day staring at his own face. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day's face in the archive light, the eleven-second footage still playing behind him.]
 
@@ -3341,6 +3720,8 @@ ZERO-DAY: That can't be true. We chose this. We chose to fight.
 KAIROS: Did you? Or did the ledger choose it for you, weeks before the broadcast, when it filed your four names as insurgents and waited for you to catch up?
 
 Zero-Day's hands are shaking. The Key-Staff hums at his side, and the hum sounds, for the first time, like a lie he's been carrying.
+
+[GENERATE: Same archive, continuous. The archivist recites the harvest, Kairos watching without expression, Zero-Day hands shaking as the Key-Staff hums like a lie. Close on Zero-Day shaking hands on the staff. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day frozen before the footage, the archivist's downcast eyes, Kairos watching without expression.]
 
@@ -3370,6 +3751,8 @@ ZERO-DAY: You've watched this before.
 
 ARCHIVIST: I've *filed* it before. The footage. The reaction. The reset. I am the keeper of the loop's memory, Zero-Day. And you are its most repeated entry.
 
+[GENERATE: Same archive, continuous. Zero-Day hologram skull surfaces and threatens to stay as he grips the Key-Staff, the light spilling over his knuckles. Close on the light spilling over his knuckles. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The Key-Staff in Zero-Day's grip, Kairos watching, the archivist's pitying gaze over the playback rig.]
 
 ---
@@ -3397,6 +3780,8 @@ The words settle over Zero-Day like cold water. The footage is still playing beh
 ZERO-DAY: (quiet) What's on the other side?
 
 KAIROS: You're not ready for that answer yet. First — see the end of the recording.
+
+[GENERATE: Same archive, continuous, the footage still playing behind them. Zero-Day turns on the archivist, raw fury breaking through, then quiets as Kairos names the loop real question. Over-the-shoulder on Zero-Day facing Kairos. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day and Kairos face to face, the archivist at the rig, the footage still playing behind them.]
 
@@ -3430,6 +3815,8 @@ SWARM TECH: Waiting for what?
 
 NEURAL BURN: (a long beat) For him to finally see the whole circle.
 
+[GENERATE: Sprawl basement door at night. Neural Burn is pushed through, alive and unhurt, cables trailing, and the three collapse into each other for half a second. Close on the reunion at the door. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Neural Burn back in the basement doorway, the three reunited but uneasy, Ghost Walker at the door.]
 
 ---
@@ -3455,6 +3842,8 @@ NEURAL BURN: That's the part Kairos wouldn't show me. It's the part he's showing
 SWARM TECH: Will he come back at all?
 
 NEURAL BURN: (softly) He always does. That's the loop. The question is what he remembers this time.
+
+[GENERATE: Basement, night, the three sitting as Neural Burn tells them what he heard in the cage, his cables sparking, the door still open behind them. Medium shot of the three, then close on Neural Burn. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The three in the basement, Neural Burn's cables sparking, the door still open behind them.]
 
@@ -3488,6 +3877,8 @@ KAIROS: They all say that.
 
 ZERO-DAY: I know. But they weren't me. Not *this* me.
 
+[GENERATE: Sealed archive, later that night. The previous Zero-Day on screen turns and speaks directly into the lens, freezing on his hologram head; the archivist flinches, Kairos does not. Close on the frozen hologram head. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The previous Zero-Day frozen mid-sentence on the archive screen, his hologram head a mirror of Zero-Day's.]
 
 ---
@@ -3512,6 +3903,8 @@ ZERO-DAY: What choice?
 
 KAIROS: You'll know it when you're standing in the empty core, holding the tether, and the clock stops. That's where every version of you has failed. That's where you get to be different.
 
+[GENERATE: Same archive, continuous. Zero-Day and Kairos face each other, the afterimage and the warden, the frozen footage behind them. Close on the two ends of the circle. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos and Zero-Day face to face in the vault light, the frozen footage behind them, the archivist a still gray shape at the rig.]
 
 ---
@@ -3530,6 +3923,8 @@ Zero-Day looks back, once, at the frozen hologram head on the screen — the pre
 
 KAIROS: (to the archivist, without turning) He'll come back. They always come back. But this one... this one might come back with the pen.
 
+[GENERATE: Same archive, continuous. Zero-Day walks toward the vault door, the archivist pleading; he looks back once at the frozen hologram head, then the vault seals behind him. Wide shot of the vault sealing. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The vault door sealing behind Zero-Day, Kairos and the archivist alone with the frozen footage, the loop ticking on.]
 
 ---
@@ -3545,6 +3940,8 @@ ZERO-DAY: (to himself) He said it would begin on schedule. That I'd have a choic
 He pauses at the bridge's edge, looking down at the flood glittering with red drone-light, and for a long moment he simply stands there, a man carrying a truth too heavy to run with.
 
 ZERO-DAY: (soft) I'm the afterimage. I'm the engine. And I'm supposed to be the one who stops it. But first — I have to tell them. All of it.
+
+[GENERATE: Skybridge approach at night, Zero-Day descending alone from the Arcology, the gate standing open, the first faint tremor of the reset in the drifting city below. Wide shot of him alone on the bridge. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day alone on the skybridge, the Arcology white behind him, the red-lit flood below.]
 
@@ -3568,6 +3965,8 @@ NEURAL BURN: The static's been quiet since you broke through. Like the whole cit
 
 GHOST WALKER: Then we don't keep it waiting long.
 
+[GENERATE: Basement, later that night, all four NU11 reunited as Zero-Day tells them the truth, the weight of it between them. Wide shot of the four in the green dark. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The four reunited in the basement, Zero-Day at the center, the green water glowing, the weight of the truth between them.]
 
 ---
@@ -3579,6 +3978,23 @@ GHOST WALKER: Then we don't keep it waiting long.
 # EPISODE 10
 
 # ROOT ACCESS — EPISODE 10 — "reset"
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 2 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 3 — reference_image: Swarm Tech, Nexus Commander | first_frame: establishing shot of the Seawall
+SCENE 4 — reference_image: Swarm Tech, Nexus Commander | first_frame: previous scene last frame
+SCENE 5 — reference_image: Arc Sentinel, Nexus Trooper | first_frame: establishing shot of the Sprawl block clearance
+SCENE 6 — reference_image: Arc Sentinel, Nexus Trooper (one-off: Old Resident) | first_frame: previous scene last frame
+SCENE 7 — reference_image: Ghost Walker | first_frame: establishing shot of the rooftop above the block
+SCENE 8 — reference_image: Arc Sentinel, Nexus Trooper, Ghost Walker (one-off: Old Resident) | first_frame: establishing shot of the block
+SCENE 9 — reference_image: Ghost Walker | first_frame: establishing shot of the rooftop
+SCENE 10 — reference_image: Director Kairos | first_frame: establishing shot of Kairos’s command in the Arcology
+SCENE 11 — reference_image: Director Kairos | first_frame: previous scene last frame
+SCENE 12 — reference_image: Neural Burn | first_frame: establishing shot of the Sprawl street
+SCENE 13 — reference_image: Neural Burn | first_frame: previous scene last frame
+SCENE 14 — reference_image: Swarm Tech, Nexus Commander | first_frame: establishing shot of the Seawall
+SCENE 15 — reference_image: Arc Sentinel, Nexus Trooper (one-off: Old Resident) | first_frame: establishing shot of the block
 
 ---
 
@@ -3603,6 +4019,8 @@ NEURAL BURN: I've been remembering for all of us since the beginning.
 GHOST WALKER: And the neighborhood sweeps — they're clearing the Sprawl block by block, looking for us. Someone has to keep them off the civilians.
 
 ZERO-DAY: Then go. All of you. This is the last fight. One way or another.
+
+[GENERATE: Basement at night, the four NU11 moving before the shock settles, Zero-Day having laid the whole truth on the table. Close on Zero-Day face as he names the coming reset. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The four pulling on their gear, the basement already feeling like a place they're about to lose.]
 
@@ -3630,6 +4048,8 @@ SWARM TECH: (half a smile) The good guys, then. For real this time.
 
 ZERO-DAY: For real.
 
+[GENERATE: Same basement, continuous, the four gearing up in silence. Swarm Tech checks the drone cradles, Ghost Walker loads the rail-pistol, Neural Burn wraps his cables, Zero-Day holds the glowing Key-Staff. Wide shot of the four at the door. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The four at the door, gear on, the Key-Staff glowing, the green water reflecting their resolve.]
 
 ---
@@ -3651,6 +4071,8 @@ SWARM TECH: The difference between us is I know what I'm fighting for.
 He brings his hand down, and the two swarms collide over the black water — rotors screaming, drones tearing each other apart in a spiral of sparks and salt spray. It's beautiful and terrible at once.
 
 NEXUS COMMANDER: (into comms) All units — I want the drone-controller's position. I want him in pieces.
+
+[GENERATE: The Seawall at night, wind and salt and black water roaring against concrete. Swarm Tech stands on the wall conducting his rising swarm; across the water Nexus Commander steps out with his Overwatch. Wide shot of the two forces facing off. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Swarm Tech on the Seawall conducting, his swarm and the Overwatch locked in a spiral over the water.]
 
@@ -3675,6 +4097,8 @@ SWARM TECH: Order's just music with all the wrong notes, Commander. And I've nev
 He sweeps his hand wide, and the last of his swarm detonates in a ring of light — a curtain of fire between him and the Overwatch, buying seconds, buying the seconds Zero-Day needs. The water below boils with falling metal.
 
 NEXUS COMMANDER: (cold) Then I'll conduct your obituary.
+
+[GENERATE: Same Seawall, continuous. The two swarms collide over the black water in a spiral of sparks and salt spray, Swarm Tech gloved hand dancing, his last drones detonating in a ring of fire. Wide shot of the ring of fire over the water. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The ring of detonating drones over the water, Swarm Tech silhouetted in the fire, Nexus Commander's spotter drones diving through the smoke.]
 
@@ -3704,6 +4128,8 @@ ARC SENTINEL: That's the *line*, Trooper. And we don't get to redraw it because 
 
 The trooper's hands shake on his pulse rifle. He doesn't lower the faceplate.
 
+[GENERATE: Sprawl block at night, a residential street with water running through it. Arc Sentinel heads a white-plated line, and the Nexus Trooper stands with his faceplate up, looking at a woman who could be his mother. Close on the trooper raised faceplate. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The trooper's raised faceplate, the faces of the neighborhood reflected in it, Arc Sentinel's silhouette beside him.]
 
 ---
@@ -3728,6 +4154,8 @@ ARC SENTINEL: For the reset. They don't know that. They don't need to know. The 
 
 The trooper's faceplate stays up.
 
+[GENERATE: Same block, continuous. Soldiers move door to door as an old resident plants himself in his doorway, the trooper unmasked face torn, the white line waiting. Close on the old resident, then the trooper face. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The old resident in his doorway, the trooper's unmasked face torn, the white line waiting behind them.]
 
 ---
@@ -3747,6 +4175,8 @@ He fires. The neural spike streaks down. The Nexus Trooper's faceplate — still
 The trooper drops. The block goes silent. And Ghost Walker, for the first time, stops counting.
 
 GHOST WALKER: (a whisper, breaking) That wasn't the guilty one.
+
+[GENERATE: Rooftop above the block at night, Ghost Walker in glitch-camo swallowing the shadows, rail-pistol ready. Below, the sweep turns ugly; he raises the pistol, steadying himself. Over-the-shoulder on Ghost Walker sighting down. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Ghost Walker frozen on the rooftop, the fallen trooper below, the neural spike's after-light fading in the dark.]
 
@@ -3772,6 +4202,8 @@ OLD RESIDENT: Then make it mean something. For him.
 
 Above, on the rooftop, Ghost Walker hasn't moved. The order to clear the neighborhood is still running. The reset is still coming. And below, a mother is pulling her child out of the water, and the child is crying, and nobody's counting anymore except the machine.
 
+[GENERATE: The block at night. Arc Sentinel kneels over the fallen trooper, lowering his faceplate with terrible gentleness; the old resident watches from his doorway. Close on Arc Sentinel broken face. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Arc Sentinel kneeling over the trooper, the old resident in the doorway, Ghost Walker frozen on the rooftop above.]
 
 ---
@@ -3789,6 +4221,8 @@ GHOST WALKER: I don't know if I can carry it.
 ZERO-DAY: (a beat) None of us can. That's the cost. We carry it anyway. Now move — we still have a city to save, even if we don't deserve to.
 
 Ghost Walker forces himself to his feet. Below, the block has gone still, the clearance stalled in its own horror. He turns from the edge and vanishes into the dark, the neural spike cold in his fist, the number the trooper had been — whatever it was — already burning into his memory forever.
+
+[GENERATE: Rooftop, continuous. Ghost Walker hands shake as he stares down at the fallen trooper, the full cost of the revolution in a single number, then turns from the edge into the dark. Close on his shaking hands, then him vanishing. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Ghost Walker turning from the edge, the silent block below, the weight of the kill in every line of him.]
 
@@ -3811,6 +4245,8 @@ KAIROS: Hold the line until the first wave. Then watch the city forget.
 He reaches out and touches the screen — the countdown circle, the sweep, the clock that only ever ticks in a circle.
 
 KAIROS: Begin.
+
+[GENERATE: Kairos command in the Arcology at night, the reset sequence live as a slow circular sweep. Kairos touches the countdown circle, Nexus Commander voice crackling in. Close on Kairos hand on the circular countdown. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Kairos's hand on the circular countdown, the wall of screens beginning to shift.]
 
@@ -3836,6 +4272,8 @@ KAIROS: Then we will finally learn what we were guarding against. Pray that we d
 
 He turns from the screens, and the clock-faced helm catches the shifting light, and the countdown circle keeps turning, and somewhere far below, the city begins — without a sound — to forget.
 
+[GENERATE: Same command, continuous. The wall of screens ripples as the reset first command propagates, Kairos utterly still, a warden at the threshold. Wide shot of Kairos before the shifting screens. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos before the shifting wall of screens, the circular countdown turning, the city's lights beginning to blur below.]
 
 ---
@@ -3858,6 +4296,8 @@ A passerby glances at him, then away. The world keeps its own rhythm.
 
 NEURAL BURN: (softer, realizing) You can't see it. None of you can. It's wiping you, and you don't even feel it.
 
+[GENERATE: Sprawl street at night, the first wave hitting like a flicker. A street sign blurs into an older font, the skyline stutters, and Neural Burn stands in the middle of it, jacks sparking, the only one who sees. Close on Neural Burn in the flickering street. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Neural Burn alone in the flickering street, the city rewriting itself around him while he alone watches.]
 
 ---
@@ -3875,6 +4315,8 @@ NEURAL BURN: (to the city, fierce) You can't overwrite what's already been burne
 The street shudders once — a final flicker — and then settles, half-present, half-past, suspended. And Neural Burn stands at the center of it, the only one who can see the two cities bleeding into each other, the only one still awake while the rest of the world dreams its old, obedient dream.
 
 NEURAL BURN: (a whisper, as the drones drift past) I'm not going to forget. And neither is he. Not this time.
+
+[GENERATE: Same street, continuous. Neural Burn turns in a slow circle as the street rewrites itself between present and past, his cables catching the bleeding signal. Wide shot of him at the center of the doubled street. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Neural Burn in the doubled street, present and past flickering around him, the drones drifting past without seeing.]
 
@@ -3899,6 +4341,8 @@ Nexus Commander glances up — at the skyline, stuttering, at a street sign blur
 NEXUS COMMANDER: (quiet) The Director said the city would forget. He didn't say it would look like this.
 
 SWARM TECH: It always looks like this. It's looked like this a hundred times. The only difference is — this time, someone's finally watching.
+
+[GENERATE: Seawall at night, the battle stalled. Swarm Tech is down, bracer tablet dead in a puddle, Nexus Commander standing over him as the skyline stutters behind them. Close on Swarm Tech down, then the stuttering skyline. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Swarm Tech down on the Seawall, Nexus Commander standing over him, the skyline stuttering behind them.]
 
@@ -3926,6 +4370,8 @@ OLD RESIDENT: That's what it always was, boy. You just finally looked.
 
 The white line waits. The trooper is heavy in Arc Sentinel's arms. And the reset keeps rolling, gentle and terrible, over the block, over the water, over everything.
 
+[GENERATE: The block at night, the first wave washing over. Arc Sentinel carries the fallen trooper through the flickering street, the old resident watching, the white line parting. Wide shot of Arc Sentinel carrying the trooper. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Arc Sentinel carrying the trooper through the flickering block, the old resident watching, the reset's first wave washing over them.]
 
 ---
@@ -3937,6 +4383,23 @@ The white line waits. The trooper is heavy in Arc Sentinel's arms. And the reset
 # EPISODE 11
 
 # ROOT ACCESS — EPISODE 11 — "empty_core"
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: establishing shot of the Basement
+SCENE 2 — reference_image: Zero-Day, Neural Burn, Swarm Tech, Ghost Walker | first_frame: previous scene last frame
+SCENE 3 — reference_image: Zero-Day | first_frame: establishing shot of the Root deep layers
+SCENE 4 — reference_image: Zero-Day (one-off: Data Echo) | first_frame: previous scene last frame
+SCENE 5 — reference_image: Zero-Day | first_frame: previous scene last frame
+SCENE 6 — reference_image: Zero-Day | first_frame: establishing shot of the Core
+SCENE 7 — reference_image: Zero-Day (Director Kairos voice) | first_frame: previous scene last frame
+SCENE 8 — reference_image: Zero-Day (Director Kairos voice) | first_frame: previous scene last frame
+SCENE 9 — reference_image: Swarm Tech, Ghost Walker, Neural Burn | first_frame: establishing shot of the Basement
+SCENE 10 — reference_image: Swarm Tech, Ghost Walker, Neural Burn | first_frame: previous scene last frame
+SCENE 11 — reference_image: Zero-Day (Director Kairos voice) | first_frame: establishing shot of the Core
+SCENE 12 — reference_image: Zero-Day (Director Kairos voice) | first_frame: previous scene last frame
+SCENE 13 — reference_image: Zero-Day (Director Kairos voice) | first_frame: previous scene last frame
+SCENE 14 — reference_image: Swarm Tech, Ghost Walker, Neural Burn | first_frame: establishing shot of the Basement
+SCENE 15 — reference_image: Zero-Day | first_frame: establishing shot of the Core
 
 ---
 
@@ -3962,6 +4425,8 @@ Swarm Tech opens his mouth to argue, then closes it. The room is quiet. The staf
 
 ZERO-DAY: If I don't come back — don't reset me. Let me be the last version.
 
+[GENERATE: Basement at night, the crew reeling from the reset first wave. Zero-Day reaches for the Key-Staff with a finality in the motion, the staff beginning to glow. Close on Zero-Day grip on the glowing staff. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day gripping the Key-Staff, the crew gathered but held back, the staff already beginning to glow.]
 
 ---
@@ -3986,6 +4451,8 @@ He raises the Key-Staff, and it answers — a low, rising hum that fills the bas
 
 ZERO-DAY: Eleven seconds. I opened every door once. Now I'm going to close the one that's been open the whole time.
 
+[GENERATE: Same basement, continuous. Zero-Day raises the Key-Staff and it answers with a low rising hum, the green water rippling outward from his feet, the crew faces lit with fearful hope. Wide shot as the water ripples. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day raising the Key-Staff, the water rippling at his feet, the crew's faces lit with a hope they're afraid to feel.]
 
 ---
@@ -4007,6 +4474,8 @@ ZERO-DAY: What is it supposed to show me?
 NEURAL BURN: (a pause) Whatever you brought with you.
 
 Zero-Day descends, and the layers fold past him like the pages of a drowned book — the grid, the ledgers, the broadcasts, the old city, and beneath all of it, a darkness that has no name.
+
+[GENERATE: Root deep layers at night, a vertiginous plunge through the grid, the old broadcast layer, and the preserved city, code turning to geology. Zero-Day descends, the layers folding past like a drowned book. Wide shot of Zero-Day plunging. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day plunging through the layers, code turning to geology around him, Neural Burn's voice a thin thread in the dark.]
 
@@ -4032,6 +4501,8 @@ DATA ECHO: (fading) Shaped like you, hacker. It's always been shaped like you. N
 
 The echo dissolves into the dark, and Zero-Day is alone again, and the cold is immense.
 
+[GENERATE: Same deep layers, continuous. A half-formed data echo resolves in the cold, its face a blur of old code, dissolving into the dark. Close on the fading echo, then Zero-Day passing through. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The fading data echo, its half-formed face a blur of old code, Zero-Day passing through it into the dark.]
 
 ---
@@ -4055,6 +4526,8 @@ He takes a step, and his footstep doesn't echo. The floor is black and polished,
 NEURAL BURN: (comms) That can't be. The whole city runs on the Root. It has to have a brain.
 
 ZERO-DAY: I'll keep looking. There has to be something.
+
+[GENERATE: Same deep layers, continuous. The last layer tears open and Zero-Day lands in a vast black space, featureless and silent, his footstep not echoing, a faint ring of light overhead. Wide shot of him alone in the emptiness. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day alone in the vast black core, the faint ring of light overhead, his reflection a small shadow on the polished floor.]
 
@@ -4080,6 +4553,8 @@ ZERO-DAY: I thought I'd find the engine that runs the loop. But the engine isn't
 
 He stops. His own reflection in the polished black floor flickers into a hologram skull, and this time it holds. Fully. Steadily. As if the core were turning up a light on what he's always been.
 
+[GENERATE: The core at night, a flat black floor swallowing sound, a faint ring of light overhead, and at the center a socket shaped for a single key. Zero-Day steps toward it, the Key-Staff matching. Close on the socket as it begins to glow. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day at the socket, the staff matching it, the glow rising from his own chest.]
 
 ---
@@ -4104,6 +4579,8 @@ ZERO-DAY: I'm the reason it can reset at all.
 
 KAIROS: Now you understand the clock. It doesn't tick forward. It ticks around you.
 
+[GENERATE: Same core, continuous. Kairos disembodied voice fills the dark as Zero-Day realizes the staff is a tether, his own glowing hands reflected in the black floor. Close on Zero-Day reflection. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day's glowing form reflected in the black floor, the socket blazing, Kairos's voice filling the dark.]
 
 ---
@@ -4125,6 +4602,8 @@ ZERO-DAY: (quiet) You keep saying that. "Contained." What's out there, Kairos? W
 KAIROS: (a long silence) Something the city was never meant to meet. But that is a question for after. First — you must understand what you are, fully. Because you cannot choose until you know.
 
 The socket blazes brighter, and the ring of light overhead begins to turn, slow, in a circle. The core is waking, and it is waking *to* Zero-Day — to the afterimage at its center, the engine in the empty room.
+
+[GENERATE: Same core, continuous. Zero-Day head blazes full, the hologram skull steady, as the ring of light overhead begins to turn and the socket drinks the light from his chest. Wide shot of Zero-Day blazing at the center. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day blazing at the center, the ring of light turning, the socket drinking the light from his chest.]
 
@@ -4149,6 +4628,8 @@ SWARM TECH: Breaking the staff could kill him. Or kill all of us. We don't know 
 NEURAL BURN: He knows. And he's still down there, looking at the socket, deciding.
 
 The three fall silent, listening to the dark, waiting for the word from the bottom of the world.
+
+[GENERATE: Basement, later that night, the three NU11 gathered around the comms, listening, hollowed out, the basement lit only by the faint glow of the Root. Close on Neural Burn breaking face. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: The three NU11 gathered around the comms, listening, the basement lit only by the faint glow of the Root.]
 
@@ -4176,6 +4657,8 @@ Swarm Tech grabs the comm, and his voice shakes.
 
 SWARM TECH: Zero. It's Swarm. I know you can hear me. Don't you dare reset. Don't you dare choose wrong again. We're the good guys. Remember? You told me that. So be the good guy. *Choose different.*
 
+[GENERATE: Same basement, continuous. Swarm Tech paces, then grabs the comm, his voice shaking as he pleads into the dark. Close on Swarm Tech gripping the comm. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Swarm Tech gripping the comm, the three of them crowded around it, their voices reaching down into the dark.]
 
 ---
@@ -4195,6 +4678,8 @@ KAIROS: Because the loop is not just a prison, Zero-Day. It is a *containment*. 
 ZERO-DAY: Then maybe this time I choose different.
 
 KAIROS: (softly) Maybe. No version has, yet.
+
+[GENERATE: The core, night, Zero-Day at the socket, staff half-raised, light pouring from his own chest, Swarm Tech voice a faint thread reaching him. Close on Zero-Day listening in the dark. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day at the socket, the staff half-raised, Swarm Tech's voice a faint thread reaching him through the dark.]
 
@@ -4218,6 +4703,8 @@ ZERO-DAY: Then it's time I chose something new.
 
 The socket pulses. The staff hums. And the ring of light overhead stops turning — and holds — waiting.
 
+[GENERATE: Same core, continuous. The core lights fully from Zero-Day himself, the socket blazing, the ring of light overhead stopping and holding. Wide shot of Zero-Day blazing at the center. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day blazing at the center of the core, the socket and staff fused in light, the black around him lit to the edges.]
 
 ---
@@ -4235,6 +4722,8 @@ ZERO-DAY: And the cost?
 KAIROS: The cost is the wall. Whatever the loop was containing — it will come. But you knew that. You've always known, in the part of you that remembers every cycle.
 
 ZERO-DAY: Then I choose. Not for the city. For *them*. For the ones who never got to choose.
+
+[GENERATE: Same core, continuous. Zero-Day looks up through the dark toward his crew voices, the choice settling into him like a weight. Close on Zero-Day face as the choice lands. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day in the core's dark, the socket blazing, the choice settling into him like a weight.]
 
@@ -4256,6 +4745,8 @@ SWARM TECH: (quiet) And if he doesn't come back?
 
 NEURAL BURN: Then we make sure it meant something. We remember. For all of us. Even when the city can't.
 
+[GENERATE: Basement, continuous, the three NU11 listening to the silence on the line, Neural Burn cables sparking, the comm humming faint with the core light. Wide shot of the three waiting. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The three in the basement, listening to the dark, the comm line humming faint with the core's light.]
 
 ---
@@ -4270,6 +4761,8 @@ He opens his eyes. The socket blazes. The staff hums in his grip, and for the fi
 
 ZERO-DAY: It's time to find out what happens when the loop meets a version of me that refuses to reset.
 
+[GENERATE: The core, continuous, Zero-Day closing his eyes and hearing his crew, then opening them, the socket blazing, the staff humming less like a tether and more like a question. Close on Zero-Day eyes opening. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day at the socket, the staff humming in his grip, the dark around him lit with a light that is entirely his own.]
 
 ---
@@ -4281,6 +4774,22 @@ ZERO-DAY: It's time to find out what happens when the loop meets a version of me
 # EPISODE 12
 
 # ROOT ACCESS — EPISODE 12 — "break_the_loop" (Season Finale)
+
+[CONTINUITY MAP]
+SCENE 1 — reference_image: Zero-Day (Director Kairos voice) | first_frame: establishing shot of the Core
+SCENE 2 — reference_image: Zero-Day (Director Kairos voice) | first_frame: previous scene last frame
+SCENE 3 — reference_image: Swarm Tech, Nexus Commander | first_frame: establishing shot of the Seawall
+SCENE 4 — reference_image: Swarm Tech, Nexus Commander | first_frame: previous scene last frame
+SCENE 5 — reference_image: Ghost Walker, Arc Sentinel | first_frame: establishing shot of the core’s surface entry
+SCENE 6 — reference_image: Ghost Walker, Arc Sentinel | first_frame: previous scene last frame
+SCENE 7 — reference_image: Ghost Walker, Arc Sentinel | first_frame: previous scene last frame
+SCENE 8 — reference_image: Zero-Day (Neural Burn comm) | first_frame: establishing shot of the Core
+SCENE 9 — reference_image: Zero-Day (Director Kairos voice) | first_frame: previous scene last frame
+SCENE 10 — reference_image: Director Kairos | first_frame: establishing shot of Kairos’s command in the Arcology
+SCENE 11 — reference_image: Director Kairos | first_frame: previous scene last frame
+SCENE 12 — reference_image: Swarm Tech, Neural Burn, Zero-Day | first_frame: establishing shot of the Sprawl rooftop at dawn
+SCENE 13 — reference_image: Swarm Tech, Neural Burn, Zero-Day | first_frame: previous scene last frame
+SCENE 14 — reference_image: Swarm Tech, Neural Burn, Zero-Day | first_frame: previous scene last frame
 
 ---
 
@@ -4310,6 +4819,8 @@ KAIROS: You'll kill yourself.
 
 ZERO-DAY: I've never been more sure I'm alive.
 
+[GENERATE: The core at night, a furnace of light, Zero-Day at its center with the socket and Key-Staff fused in his grip. The crew voices rise through the comms from above. Close on Zero-Day at the blazing socket. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day at the blazing core, the staff half-cracked with light, the crew's voices threading through the dark.]
 
 ---
@@ -4336,6 +4847,8 @@ KAIROS: That is what the last one said. Right before he burned himself into the 
 
 ZERO-DAY: And look where it got him. Look where it got all of us.
 
+[GENERATE: Same core, continuous. Zero-Day hands shake on the staff, his shadow thrown huge across the black wall, the socket pulsing like a held breath as he weighs the wall and the harvest. Wide shot of his vast shadow. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day's shadow vast on the core's black wall, the staff blazing, the socket pulsing like a held breath.]
 
 ---
@@ -4357,6 +4870,8 @@ SWARM TECH: That's the thing about the loop, Commander. It only knows one versio
 He throws what's left of the swarm forward — a last, ragged orchestra — and the two forces lock over the black water one final time.
 
 SWARM TECH: (to himself, steadying) We're the good guys. Even if there are no good guys. *Especially* then.
+
+[GENERATE: The Seawall at night, Swarm Tech standing in the path of a corporate response force, his swarm nearly spent, one gloved hand raised. Wide shot of him against the rolling force. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Swarm Tech on the Seawall, the last of his swarm rising against the corporate force.]
 
@@ -4380,6 +4895,8 @@ NEXUS COMMANDER: (quiet, to himself) He believes it. After all of it — he stil
 
 The hesitation is small. But it is a crack, and the loop, for the first time in a hundred cycles, does not know what to do with a crack.
 
+[GENERATE: Same Seawall, continuous. Swarm Tech throws the last of his swarm forward, a ragged orchestra, the two forces locking over the black water; he goes down hard, the bracer skittering away. Wide shot of the final clash. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Swarm Tech down on the Seawall, the Overwatch closing, Nexus Commander frozen mid-order.]
 
 ---
@@ -4397,6 +4914,8 @@ GHOST WALKER: It's never been over. I just ran out of ways to pretend it was cle
 ARC SENTINEL: We don't have to do this.
 
 GHOST WALKER: Yes we do. You serve the order. I'm the one who asks what it costs. And the cost has to be *me*, this time. Not another poor kid from the lower city. Not a mother in a doorway. Me.
+
+[GENERATE: Core surface entry at night, Ghost Walker backlit and alone, glitch-camo failing, rail-pistol empty, only the neural spike in his fist. Arc Sentinel advances at the head of the white line. Wide shot of Ghost Walker in the light. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Ghost Walker backlit at the core entry, Arc Sentinel at the head of the white line, the neural spike glinting in Ghost Walker's fist.]
 
@@ -4420,6 +4939,8 @@ GHOST WALKER: (to the soldiers, calm) They arrive, and someone important stops e
 
 The door seals. The soldiers rush it. Ghost Walker holds the line, and the counting stops for good.
 
+[GENERATE: Same core entry, continuous. Arc Sentinel projector whines and charges as the two face off, and Ghost Walker jams the neural spike into the entry lock, fusing the door behind him. Close on the spike fused into the lock. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Ghost Walker backlit at the sealed door, the neural spike fused into the lock, the soldiers surging forward.]
 
 ---
@@ -4433,6 +4954,8 @@ Arc Sentinel does not fire. He watches, the projector charged and ready, and doe
 GHOST WALKER: (as the line closes in) You asked what it costs, Sentinel. It costs this. Every time. Someone has to be the one who stops counting.
 
 The white line buries him. And above it all, the loop's clock, for the first time, stutters.
+
+[GENERATE: Same core entry, continuous. The white line crashes against the sealed door and Ghost Walker meets them, Arc Sentinel watching with the charged projector, not firing. Wide shot of Ghost Walker holding the line. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Ghost Walker holding the sealed door against the white line, Arc Sentinel frozen with the charged projector, the cost finally paid.]
 
@@ -4456,6 +4979,8 @@ He plants his feet. The hologram head blazes full and steady. And with both hand
 
 Light detonates. The core screams. And somewhere in the architecture of the city, a clock that has ticked in a circle for years finally stops.
 
+[GENERATE: The core, night, Neural Burn voice the last clear thing Zero-Day hears. He plants his feet, the hologram head blazing full, and drives the Key-Staff down against the socket, snapping it in two. Close on the staff snapping. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Zero-Day breaking the Key-Staff, the core erupting in white light, the loop tearing open.]
 
 ---
@@ -4475,6 +5000,8 @@ Zero-Day reaches out into the white, and somewhere above, through the comms, he 
 ZERO-DAY: Then let me decide. Let me be the one who breaks the circle. And let the rest of them — the rest of *us* — be free.
 
 The light folds in on itself, and the core, for the first time in its long, long life, goes dark.
+
+[GENERATE: Same core, continuous. Blinding light detonates as Zero-Day feels himself come apart, the broken staff on the black floor, the core going dark around him. Wide shot of him dissolving into the white. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day dissolving into the white light, the broken staff on the floor, the core going dark around him.]
 
@@ -4502,6 +5029,8 @@ NEXUS COMMANDER: Then what happens now?
 
 KAIROS: Now... we find out what the wall was for.
 
+[GENERATE: Kairos command in the Arcology at night, the wall of screens going white then dark, the countdown gone, the helm clock face stilled. Kairos looks at his own reflection. Close on the stilled clock face. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: Kairos's helm, its clock face stilled at last, the wall of screens dark behind him.]
 
 ---
@@ -4525,6 +5054,8 @@ KAIROS: (a long, soft breath) We wait. And we watch the seawall. Because if the 
 He turns to the dead screens, and in their dark reflection, something beyond the city's edge catches the light — a shape, faint, where there has never been a shape before.
 
 KAIROS: (a whisper) It's been waiting. All this time. And now the door is open.
+
+[GENERATE: Same command, continuous. Kairos removes the clock-faced helm for the second time and sets it down, his ancient face at peace, the dead screens reflecting something vast beyond the city edge. Close on his face in the dark reflection. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Kairos without the helm, the dead wall of screens reflecting something vast beyond the city's edge.]
 
@@ -4552,6 +5083,8 @@ Beyond the seawall. Past the edge of the map. Where the flood had always ended i
 
 NEURAL BURN: (a whisper) The wall wasn't keeping us in. It was keeping *that* out.
 
+[GENERATE: Sprawl rooftop at dawn, a sunrise that was never scheduled spilling pink and gold over floodwater that no longer glows acid-green. The three remaining NU11 gather to watch. Wide shot of the three silhouetted against the sunrise. Arcane-inspired 3D animated, dark cyberpunk.]
+
 [REFERENCE IMAGE: The three silhouetted against the first free sunrise, and beyond the seawall, the dark shape of another city.]
 
 ---
@@ -4569,6 +5102,8 @@ UNKNOWN VOICE: We are what the loop was built to contain. And we have been waiti
 The screen fills with the other city — vast, impossible, lit by a different kind of light. Zero-Day grips the broken staff, and the crew closes in around him, and the first free sunrise keeps rising over the floodwater.
 
 UNKNOWN VOICE: The war you were fighting was only the gate. Come see what was on the other side.
+
+[GENERATE: Same rooftop, dawn, every screen in the city flickering on at once with a signal older than the loop. Zero-Day grips the broken staff as the other city fills every screen. Close on Zero-Day face lit by the alien broadcast. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day's face lit by the alien broadcast, the other city filling every screen behind him.]
 
@@ -4595,6 +5130,8 @@ The unknown voice returns, softer now, almost gentle, and it is speaking only to
 UNKNOWN VOICE: Zero-Day. You are not the afterimage anymore. You are the *first*. The first of something the loop was never meant to produce. Come. See what you were made to be — and what the wall was built to keep out of the dark.
 
 Zero-Day grips the broken staff, and the crew closes in around him, and the first free sunrise keeps rising over the floodwater, and beyond the seawall, the other city waits.
+
+[GENERATE: Same rooftop, dawn, the three at the edge as the other city hangs beyond the seawall, the broken staff glowing faintly in Zero-Day hands. Wide shot of the three and the vast other city. Arcane-inspired 3D animated, dark cyberpunk.]
 
 [REFERENCE IMAGE: Zero-Day and his two friends at the rooftop's edge, the other city vast beyond the seawall, the broken staff glowing faintly in his hands.]
 
